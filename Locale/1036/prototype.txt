@@ -1,0 +1,1261 @@
+电磁协议		5	Méta-EM
+能量协议		5	Méta-Énergie
+结构协议		5	Méta-Structure
+信息协议		5	Méta-Information
+引力协议		5	Méta-Gravité
+宇宙协议		5	Métavers
+石块1		2	Pierre 1
+石块2		2	Pierre 2
+石块3		2	Pierre 3
+石块4		2	Pierre 4
+石块5		2	Pierre 5
+石块6		2	Pierre 6
+石块7		2	Pierre 7
+石块8		2	Pierre 8
+石块9		2	Pierre 9
+石块10		2	Pierre 10
+石块11		2	Pierre 11
+石块12		2	Pierre 12
+石块13		2	Pierre 13
+石块14		2	Pierre 14
+石块15		2	Pierre 15
+石块16		2	Pierre 16
+石块17		2	Pierre 17
+石块18		2	Pierre 18
+石块19		2	Pierre 19
+石块20		2	Pierre 20
+石块21		2	Pierre 21
+石块22		2	Pierre 22
+石块23		2	Pierre 23
+石块24		2	Pierre 24
+石块25		2	Pierre 25
+石块26		2	Pierre 26
+冰山1		2	Iceberg 1
+冰山2		2	Iceberg 2
+冰山3		2	Iceberg 3
+树1		2	Arbre 1
+树2		2	Arbre 2
+树3		2	Arbre 3
+树4		2	Arbre 4
+树5		2	Arbre 5
+树6		2	Arbre 6
+树7		2	Arbre 7
+树8		2	Arbre 8
+树9		2	Arbre 9
+树10		2	Arbre 10
+树11		2	Arbre 11
+树12		2	Arbre 12
+树13		2	Arbre 13
+树14		2	Arbre 14
+树15		2	Arbre 15
+树16		2	Arbre 16
+树17		2	Arbre 17
+树18		2	Arbre 18
+树19		2	Arbre 19
+树20		2	Arbre 20
+树21		2	Arbre 21
+树22		2	Arbre 22
+树23		2	Arbre 23
+树24		2	Arbre 24
+树25		2	Arbre 25
+树26		2	Arbre 26
+树27		2	Arbre 27
+树28		2	Arbre 28
+树29		2	Arbre 29
+树30		2	Arbre 30
+树31		2	Arbre 31
+树32		2	Arbre 32
+树33		2	Arbre 33
+树34		2	Arbre 34
+草0		2	Herbe 0
+草1		2	Herbe 1
+草2		2	Herbe 2
+外星石1		2	Pierre Extraterrestre 1
+外星石2		2	Pierre Extraterrestre 2
+外星石3		2	Pierre Extraterrestre 3
+外星石4		2	Pierre Extraterrestre 4
+外星石5		2	Pierre Extraterrestre 5
+外星石6		2	Pierre Extraterrestre 6
+外星石7		2	Pierre Extraterrestre 7
+外星石8		2	Pierre Extraterrestre 8
+外星石9		2	Pierre Extraterrestre 9
+外星石10		2	Pierre Extraterrestre 10
+外星石11		2	Pierre Extraterrestre 11
+外星石12		2	Pierre Extraterrestre 12
+外星石13		2	Pierre Extraterrestre 13
+外星石14		2	Pierre Extraterrestre 14
+外星石15		2	Pierre Extraterrestre 15
+外星石16		2	Pierre Extraterrestre 16
+外星石17		2	Pierre Extraterrestre 17
+外星石18		2	Pierre Extraterrestre 18
+外星石19		2	Pierre Extraterrestre 19
+外星石20		2	Pierre Extraterrestre 20
+外星石21		2	Pierre Extraterrestre 21
+外星石22		2	Pierre Extraterrestre 22
+外星石23		2	Pierre Extraterrestre 23
+外星石24		2	Pierre Extraterrestre 24
+外星石25		2	Pierre Extraterrestre 25
+地中海树1		2	Arbre de Mariterra 1
+地中海树2		2	Arbre de Mariterra 2
+地中海树3		2	Arbre de Mariterra 3
+地中海树4		2	Arbre de Mariterra 4
+地中海树5		2	Arbre de Mariterra 5
+地中海树6		2	Arbre de Mariterra 6
+地中海草7		2	Herbe de Mariterra 7
+地中海草8		2	Herbe de Mariterra 8
+地中海草9		2	Herbe de Mariterra 9
+地中海石1		2	Pierre de Mariterra 1
+地中海石2		2	Pierre de Mariterra 2
+地中海石3		2	Pierre de Mariterra 3
+地中海石4		2	Pierre de Mariterra 4
+地中海石5		2	Pierre de Mariterra 5
+地中海碎6		2	Fragments de Mariterra 6
+红石树1		2	Arbre de Crimsonis 1
+红石树2		2	Arbre de Crimsonis 2
+红石草3		2	Herbe de Crimsonis 3
+红石树4		2	Arbre de Crimsonis 4
+红石树5		2	Arbre de Crimsonis 5
+红石树6		2	Arbre de Crimsonis 6
+红石树7		2	Arbre de Crimsonis 7
+红石草8		2	Herbe de Crimsonis 8
+红石草9		2	Herbe de Crimsonis 9
+铁矿脉		5	Veines de Fer
+铜矿脉		5	Veines de Cuivre
+硅矿脉		5	Veines de Silicium
+钛矿脉		5	Veines de Titane
+石矿脉		5	Veines de Pierre
+煤矿脉		5	Veines de Charbon
+原油涌泉		3	Source de Pétrole Brut
+可燃冰矿		5	Veine de Glace de Feu
+金伯利矿		5	Veines de Kimberlite
+分形硅矿		5	Veines de Silicium Fractal
+有机晶体矿		5	Veines de Cristal Organique
+光栅石矿		3	Veine de Cristal Liquide
+刺笋矿脉		3	Veine de Cristal de Stalagmite
+单极磁矿		5	Veines d'Aimant Unipolaire
+有机晶体矿描述		3	Minerai rare avec une structure de réseau unique pouvant être extrait pour obtenir du Cristal Organique.
+可燃冰描述		3	Minerai rare avec des liaisons covalentes instables pouvant être utilisé pour préparer efficacement du graphène et de l'hydrogène.
+水		5	Eau
+铁矿		5	Minerai de Fer
+铜矿		5	Minerai de Cuivre
+硅石		5	Minerai de Silicium
+钛石		5	Minerai de Titane
+石矿		5	Pierre
+煤矿		5	Charbon
+可燃冰		5	Glace de Feu
+金伯利矿石		5	Minerai de Kimberlite
+分形硅石		5	Silicium Fractal
+光栅石		3	Cristal Liquide
+刺笋结晶		3	Cristal de Stalagmite
+单极磁石		5	Aimant Unipolaire
+木材		3	Bois
+植物燃料		3	Combustible Végétal
+铁块		3	Lingot de Fer
+磁铁		3	Aimant
+钢材		3	Acier
+铜块		3	Lingot de Cuivre
+高纯硅块		3	Silicium de Haute Pureté
+钛块		3	Lingot de Titane
+钛合金		3	Alliage de Titane
+石材		3	Brique de Pierre
+高能石墨		3	Graphite Énergétique
+玻璃		3	Verre
+棱镜		3	Prisme
+金刚石		3	Diamant
+晶格硅		3	Silicium Cristallin
+精炼油		3	Pétrole Raffiné
+塑料		3	Plastique
+硫酸		3	Acide Sulfurique
+有机晶体		3	Cristal Organique
+钛晶石		3	Cristal de Titane
+钛化玻璃		3	Verre de Titane
+氢		3	Hydrogène
+重氢		3	Deutérium
+反物质		3	Antimatière
+石墨烯		3	Graphène
+碳纳米管		3	Nanotube de Carbone
+框架材料		3	Matériau de Structure
+卡西米尔晶体		3	Cristal de Casimir
+燃烧单元		3	Unité de Combustion
+爆破单元		3	Unité Explosive
+晶石爆破单元		3	Unité Explosive de Cristal
+地基		3	Fondation
+增产剂 Mk.I		3	Proliférateur Mk.I
+增产剂 Mk.II		3	Proliférateur Mk.II
+增产剂 Mk.III		3	Proliférateur Mk.III
+齿轮		3	Engrenage
+磁线圈		3	Bobine Magnétique
+电动机		3	Moteur Électrique
+电磁涡轮		3	Turbine Électromagnétique
+超级磁场环		3	Anneau Super-magnétique
+粒子容器		3	Conteneur à Particules
+奇异物质		3	Matière Étrange
+空间翘曲器		3	Module de Distorsion Spatiale
+临界光子		3	Photon Critique
+引力透镜		3	Lentille Graviton
+电路板		3	Circuit imprimé
+微晶元件		3	Composant Microcristallin
+处理器		3	Processeur
+位面过滤器		3	Filtre de Plan
+量子芯片		3	Puce Quantique
+电浆激发器		3	Exciteur de Plasma
+粒子宽带		3	Bande Passante de Particules
+湮灭约束球		3	Sphère de Contrainte d'Annihilation
+光子合并器		3	Prisme Photonique
+动力引擎		3	Moteur
+推进器2		5	Poussée 2
+加力推进器		3	Poussée Renforcée
+配送运输机		3	Robot Logistique
+物流运输机		3	Drone Logistique
+星际物流运输船		3	Vaisseau Logistique Interstellaire
+太阳帆		5	Voile Solaire
+戴森球组件		3	Composant de la Sphère de Dyson
+小型运载火箭		3	Petite Fusée de Transport
+氢燃料棒		3	Barre de Carburant à l'Hydrogène
+氘核燃料棒		3	Barre de Carburant au Deutéron
+反物质燃料棒		3	Barre de Carburant à l'Antimatière
+金色燃料棒		1	Barre de Carburant d'Annihilation Étrange
+机枪弹箱		3	Boîte de Munitions Magnum
+钛化弹箱		3	Boîte de Munitions en Titane
+超合金弹箱		3	Boîte de Munitions en Superaliage
+炮弹组		3	Ensemble d'Obus
+高爆炮弹组		3	Ensemble d'Obus à Haute Explosivité
+晶石炮弹组		3	Ensemble d'Obus en Cristal
+等离子胶囊		3	Capsule de Plasma
+反物质胶囊		3	Capsule d'Antimatière
+导弹组		3	Ensemble de Missiles
+超音速导弹组		3	Ensemble de Missiles Supersoniques
+引力导弹组		3	Ensemble de Missiles à Gravité
+电磁干扰胶囊		0	Capsule de brouillage
+电磁压制胶囊		0	Capsule de suppression
+地面战斗机-A型		3	Drone de Précision
+地面战斗机-F型		3	Drone d'Attaque
+地面战斗机-E型		3	Prototype
+太空战斗机-A型		3	Corvette
+太空战斗机-F型		3	Destroyer
+存储单元		3	Matrice de la Brume Sombre
+硅基神经元		3	Neurone à Base de Silicium
+物质重组器		3	Recombineur de Matière
+负熵奇点		3	Singularité de Négentropie
+虚粒子		3	Élément de Noyau
+能量碎片		3	Fragment d'Énergie
+低速传送带		5	Tapis Roulant MK.I
+高速传送带		5	Tapis Roulant MK.II
+极速传送带		5	Tapis Roulant MK.III
+低速分拣器		3	Trieur MK.I
+高速分拣器		3	Trieur MK.II
+极速分拣器		3	Trieur MK.III
+集装分拣器		0	Trieur de piles
+四向分流器		5	Diviseur
+流速器		3	Moniteur de Trafic
+自动集装机		3	Élévateur Automatique
+小型储物仓		3	Dépôt MK.I
+大型储物仓		3	Dépôt MK.II
+物流配送器		3	Distributeur Logistique
+物流运输站		3	Station Logistique Planétaire
+星际物流运输站		3	Station Logistique Interstellaire
+轨道采集器		3	Collecteur Orbital
+储液罐		3	Citerne de Stockage
+电力感应塔		3	Tour Tesla
+无线输电塔		3	Tour de Transmission sans Fil
+卫星配电站		3	Poste de Sous-station Satellite
+风力涡轮机		3	Éolienne
+火力发电厂		3	Centrale Thermique
+微型聚变发电站		3	Centrale Mini Fusion
+太阳能板		3	Panneau Solaire
+蓄电器		3	Accumulateur
+蓄电器（满）		3	Accumulateur (plein)
+射线接收站		3	Récepteur de Rayons
+能量枢纽		3	Échangeur d'Énergie
+地热发电站		3	Centrale Géothermique
+人造恒星		3	Étoile Artificielle
+采矿机		3	Machine d'Extraction
+大型采矿机		3	Machine d'Extraction Avancée
+抽水站		3	Pompe à Eau
+原油萃取站		3	Extracteur de Pétrole
+电弧熔炉		3	Four à Arc
+位面熔炉		3	Four à Plan
+熔炉 Mk.III		3	Four de Négentropie
+制造台 Mk.I		3	Machine d'Assemblage Mk.I
+制造台 Mk.II		3	Machine d'Assemblage Mk.II
+制造台 Mk.III		3	Machine d'Assemblage Mk.III
+制造台 Mk.IV		3	Ré-assembleur
+原油精炼厂		3	Raffinerie de Pétrole
+化工厂		3	Usine Chimique
+化工厂 Mk.II		3	Usine Chimique Quantique
+喷涂机		3	Pulvérisateur
+分馏塔		3	Fractionneur
+微型粒子对撞机		3	Collisionneur de Particules
+矩阵研究站		3	Laboratoire de Matrice
+矩阵研究站 Mk.II		3	Laboratoire d'Auto-évolution
+激光灯塔		0	Balise Holographique				   
+电磁轨道弹射器		3	Lanceur Électromagnétique sur Rail
+垂直发射井		3	Silo de Lancement Vertical
+高频激光塔		1	Tourelle Laser
+高斯机枪塔		1	Tourelle Gauss
+聚爆加农炮		1	Canon d'Implosion
+护盾发生器		1	Générateur de Bouclier Planétaire
+干扰塔		3	Tour de Brouillage
+信标		1	Tour de Signalisation
+导弹防御塔		1	Tourelle de Missile
+磁化电浆炮		1	Tourelle à Plasma
+战场分析基站		3	Base d'Analyse de Champ de Bataille
+地面电浆炮		0	Canon à Plasma au sol
+电磁矩阵		5	Matric Electromagnétique
+能量矩阵		5	Matric d'Énergie
+结构矩阵		5	Matric de Structure
+信息矩阵		5	Matric d'Information
+引力矩阵		5	Matric de Gravité
+宇宙矩阵		5	Matric d'Univers
+等离子精炼		3	Raffinage de Plasma
+X射线裂解		3	Craquage par Rayons X
+重整精炼		3	Raffinage Reformé
+卡西米尔晶体（高效）		3	Cristal de Casimir (avancé)
+石墨烯（高效）		3	Graphène (avancé)
+碳纳米管（高效）		3	Nanotube de Carbone (avancé)
+碳纳米管（先进）		1	Nanotube de Carbone (avancé-2)
+晶格硅（高效）		3	Silicium Cristallin (avancé)
+微晶元件（高效）		3	Composant Microcristallin (avancé)
+金刚石（高效）		3	Diamant (avancé)
+有机晶体（原始）		3	Cristal Organique (original)
+光子合并器（高效）		3	Prisme Photonique (avancé)
+重氢分馏		3	Distillation de Deutérium
+光子物质化		3	Stockage de Matière-Énergie
+粒子容器（高效）		3	Conteneur de Particules (avancé)
+空间翘曲器（高级）		3	Module de Distorsion Spatiale (avancé)
+I水		3	Il est obtenu en utilisant la Pompe à Eau, largement utilisé dans la production chimique. Il peut également être utilisé comme objet jetable pour s'entraîner mais il n'a aucun dommage ni effet.
+I铁矿		3	Il est collecté en extrayant les gisements de fer et est utilisé pour la fusion des lingots de fer et des aimants.
+I铜矿		3	Il est collecté en extrayant les gisements de cuivre et peut être directement fondu en lingots de cuivre.
+I硅石		3	C'est un minerai de silicium de haute pureté récolté en extrayant les gisements de silicium. Il est utilisé pour fabriquer du silicium de haute pureté.
+I钛石		3	C'est un type de minerai avec une structure moléculaire unique créée à haute température.
+I石矿		3	C'est un type de minerai courant et une matière première importante pour la production. Il peut également être extrait des roches.
+I煤矿		3	C'est un minerai solide combustible. Il se forme progressivement par les plantes à travers des changements physiologiques et bio-mécaniques complexes. C'est une source d'énergie et une matière première essentielle pour la fusion et la production chimique.
+I原油		3	C'est un type de fossile formé à partir d'organismes marins et peut être extrait sous forme de minéral liquide. Il contient de l'énergie chimique stockée dans les organismes marins pendant leur vie, et peut être utilisé comme carburant ou comme matière première chimique.
+I可燃冰		3	Il s'agit d'un minerai rare et d'une matière solide blanche semblable à de la glace et présentant des microstructures en forme de cage. Ses liaisons covalentes sont dans un état critique, ce qui en fait le matériau idéal pour une production plus efficace de graphène.
+I金伯利矿石		3	C'est un minerai rare formé et cristallisé directement à partir de magmas kimberlitiques dans des conditions riches en CO₂. Sa fusion permet d'obtenir des diamants.
+I分形硅石		3	C'est un minerai de silicium naturel rare avec une structure fractale géométrique unique. Lorsqu'un seul cristal atteint une certaine taille, il est remarquable qu'une petite brindille de cristaux de silicium pousse hors de la matrice. La fractalisation des cristaux est un processus naturel. Plus les générations fractales sont élevées, plus la pureté est grande. Le silicium fractal avec plus de six générations fractales peut être utilisé directement comme matière première pour la production de silicium cristallin.
+I光栅石		3	C'est un minerai rare avec des rainures naturelles réparties à la surface. Il est utilisé pour produire des composants optiques de précision et des excitateurs haute puissance.
+I刺笋结晶		3	Ils étaient des créatures rares qui existaient autrefois largement sur cette planète vivante dans l'océan à une profondeur de 100 000 mètres. Après la mort de la vie marine sur ces planètes, leurs corps coulent au fond de l'océan et se minéralisent avec l'eau de mer sous la pression profonde de l'océan. S'il y a un courant océanique stable, lisse, lent et chaud, des cristaux de stalactites peuvent se former à la suite de cet événement.
+I单极磁石		3	C'est un minerai rare avec une structure de pyrochlore. Pour séparer les "monopôles magnétiques", un champ magnétique peut être appliqué pour affecter la symétrie et l'orientation de la chaîne en abaissant la densité du réseau de chaînes.
+I木材		3	C'est un combustible normal ayant une énergie plus faible et qui est récolté à partir des arbres.
+I植物燃料		3	Il contient moins d'énergie par rapport au bois, mais il est plus facile à récolter.
+I铁块		3	C'est une matière première de base utilisée pour produire divers composants en fer.
+I磁铁		3	C'est un matériau magnétique de base obtenu directement par fusion de minerais de fer.
+I钢材		3	Les lingots de fer en tant que matière première sont fondus sous un strict contrôle de la température pour améliorer la structure cristalline des matériaux et obtenir de meilleures propriétés mécaniques.
+I铜块		3	C'est une matière première de base utilisée pour produire divers composants en cuivre.
+I高纯硅块		3	Après fusion et recristallisation du silicium brut, des cristaux de silicium analytiques purs sont formés. Les matériaux photovoltaïques et les composants semi-conducteurs fabriqués à partir d'eux peuvent répondre à divers besoins.
+I钛块		3	Obtenu par fusion des minerais de titane, il est léger et très dense, ce qui en fait une matière première essentielle pour la production de matériaux à haute densité.
+I钛合金		3	En utilisant l'unicité de la structure de la grille du titane à différentes températures, l'ajout d'une quantité précise et proportionnelle d'éléments d'alliage peut permettre d'atteindre l'équilibre parfait entre la température de transition de phase et la teneur en phase, résultant en un nouveau type de matériau d'alliage avec une résistance et une densité supérieures.
+I石材		3	C'est un matériau courant obtenu par fusion de pierres et utilisé pour produire les fondations des installations.
+I高能石墨		3	Les impuretés telles que l'hydrogène dans le charbon sont directement éliminées du courant ionique, suivi d'un processus de compactage pour obtenir du graphite cristallin présentant des performances d'application supérieures.
+I玻璃		3	C'est un milieu optique amorphe à structure irrégulière. Il peut être utilisé pour fabriquer divers composants optiques tels que des prismes et des lentilles, et il peut également être utilisé pour construire diverses installations.
+I棱镜		3	C'est un polyèdre entouré de deux plans de verre intersectants. Il divise la lumière ou disperse les faisceaux lumineux, ce qui en fait un composant clé pour la production d'instruments optiques plus précis.
+I金刚石		3	Les diamants sont formés en utilisant une pression et une chaleur extrêmement élevées pour altérer la structure du graphite. Non seulement il conserve la grille hexagonale parallèle du graphite, mais il forme également une grille hexagonale cubique, et c'est un cristal très dur.
+I晶格硅		3	La fusion de silicium de haute pureté et son passage à travers un champ électrique puissant à une certaine vitesse permettent d'obtenir un cristal de silicium d'une pureté spectrale. Ce processus permet d'éliminer davantage d'impuretés ioniques dissoutes. Le silicium en réseau est presque exempt de défauts cristallins, et il est principalement utilisé pour produire des instruments optiques ultra-précis.
+I精炼油		3	C'est un produit de base de la raffinerie de pétrole brut. C'est un carburant chimique utilisé pour fabriquer divers produits chimiques.
+I塑料		3	C'est un produit chimique de base, très polyvalent. Il est utilisé pour fabriquer des produits chimiques plus avancés.
+I硫酸		3	C'est un produit chimique de base issu du pétrole brut. Il peut être directement obtenu de l'océan d'acide sulfurique à l'aide d'une pompe à eau.
+I有机晶体		3	C'est un produit chimique de haute qualité issu du pétrole brut avec une structure cristalline. Il peut également être extrait directement des veines de cristaux organiques rares, et il est utilisé pour produire des cristaux de plus grande densité.
+I钛晶石		3	L'ajout de cristaux organiques précisément proportionnels dans le titane peut renforcer davantage sa structure cristalline, formant ainsi des cristaux atomiques de titane spéciaux avec une densité accrue.
+I钛化玻璃		3	Le mélange d'une quantité proportionnelle de titane dans le verre fondu peut considérablement renforcer le verre pour qu'il résiste aux environnements hostiles.
+I氢		3	Élément le plus abondant de l'univers et gaz le plus léger.
+I重氢		3	C'est un isotope stable de l'hydrogène. Rarement trouvé dans des conditions naturelles, la plupart d'entre eux proviennent d'hydrogène retraité ou sont collectés des géantes gazeuses.
+I反物质		3	Elle est générée en inversant les photons à un état critique. Lorsque la matière et l'antimatière se rencontrent, elles s'annihilent mutuellement et produisent une énorme explosion d'énergie.
+I石墨烯		3	Si une couche de graphène est posée sur une autre couche de graphène, par rotation, le double graphène formera une structure complexe répétée - un super-réseau. Lorsque le double graphène est tourné à un certain "angle magique", il devient supraconducteur et devient un nouveau type de matériau nano-supraconducteur.
+I碳纳米管		3	Il est très léger et présente une structure de grille hexagonale précisément interconnectée. Une telle structure confère une résistance exceptionnelle et une résistance impressionnante à la déformation, ce qui le rend idéal pour la production d'appareils haute performance.
+I框架材料		3	C'est un nouveau type de structure légère à haute densité. Il est plus résistant à l'attraction gravitationnelle intense des étoiles que les matériaux structuraux traditionnels, ce qui en fait un matériau idéal pour la construction de composants de la Sphère de Dyson.
+I卡西米尔晶体		3	Le champ électrique du piège à ions maintient les particules chargées en place, et la répulsion de Coulomb entre les particules les amène à former spontanément un cristal annulaire spatial. L'énergie du point zéro des particules à l'intérieur du cristal peut être stimulée en imposant un champ magnétique statique faible, ce qui entraîne un effet Casimir notable.
+I燃烧单元		3	En tant que carburant, il peut brûler efficacement et générer une énergie énorme, tandis qu'en tant que composant explosif, il peut être utilisé pour fabriquer des obus et des unités explosives.
+I爆破单元		3	C'est un puissant explosif fabriqué à partir d'unités combustibles. Une conception sophistiquée et un contrôle strict de la production garantiront sa capacité explosive et sa stabilité. En tant que matière première utilisée dans la fabrication d'obus hautement explosifs, il offre une puissante explosivité et la capacité d'infliger de lourds dégâts.
+I晶石爆破单元		3	En utilisant la résonance des cristaux de Casimir, son explosivité est considérablement améliorée par un effet de réaction en chaîne dans une petite plage.
+I地基		3	C'est un outil de nivellement du terrain. Mais il ne peut pas être utilisé pour modifier la topographie de la planète. Vous ne pouvez niveler le terrain qu'à une élévation de zéro. Si la fondation est utilisée pour les hautes terres, des tas de terre seront obtenus. Cependant, si la fondation est utilisée pour l'océan ou les zones basses, les tas de terre seront consommés. Lors de la pose de la Fondation, vous pouvez choisir une option de décoration ou la laisser simple et simplement niveler le terrain.
+I增产剂 Mk.I		3	Le Proliferator est introduit dans le port au-dessus du Spray Coater et pulvérisé sur la cargaison. Lorsque la cargaison pulvérisée est utilisée comme matière première pour fabriquer les produits de niveau supérieur, elle peut produire des produits supplémentaires ou accélérer la production. Cependant, cela augmentera la consommation d'énergie pour l'ensemble du processus de production.
+I增产剂 Mk.II		3	Comparé au Proliferator MK.I, la formule d'ingrédients du Proliferator MK.II est améliorée. Lorsque la cargaison pulvérisée avec le Proliferator MK.II est utilisée comme matière première pour produire les produits de niveau supérieur, l'effet de production de produits supplémentaires ou d'accélération de la production peut être considérablement amélioré.
+I增产剂 Mk.III		3	Avec une formule nouvellement améliorée, lorsque la cargaison pulvérisée avec le Proliferator MK.III est utilisée comme matière première pour produire des produits de niveau supérieur, elle peut aider à produire plus avec la même quantité de matière première ou bien accélérer la production. Cependant, la consommation d'énergie augmentera pendant le processus de production, et cela nécessite une ligne de production de plus grande capacité.
+I齿轮		3	C'est un composant standard utilisé dans une large gamme de structures mécaniques pour la transmission et d'autres fonctions.
+I磁线圈		3	C'est un composant électromagnétique de base extrêmement utile.
+I电动机		3	C'est un composant de base du système d'alimentation qui peut améliorer les performances mécaniques.
+I电磁涡轮		3	Il peut défier la gravité pour léviter des objets et est couramment utilisé pour créer des générateurs de champ magnétique plus avancés.
+I超级磁场环		3	C'est un dispositif permettant de générer des champs magnétiques superpuissants. Les champs magnétiques résultants peuvent travailler directement à l'échelle atomique et provoquer des distorsions dans la structure des matériaux, créant ainsi des matériaux et des dispositifs très performants.
+I粒子容器		3	Tout en liant fermement les particules, il peut les guider pour qu'elles présentent certaines propriétés spécifiques.
+I奇异物质		3	La Matière Étrange exerce une grande pression gravitationnelle négative qui l'emporte sur sa densité énergétique. Cela permet à l'espace qui l'entoure de se déformer et de générer de l'énergie négative nécessaire au moteur de distorsion.
+I空间翘曲器		3	C'est un objet consommable qui active le vol en distorsion pour le Mecha et les vaisseaux logistiques. Utilisez la touche <color="#FD965ECC">MAJUSCULES</color> pour activer le moteur de distorsion.
+I临界光子		3	C'est un photon à l'état critique qui peut être converti en antimatière et en hydrogène sous l'effet d'un champ magnétique très puissant.
+I引力透镜		3	C'est un morceau de matériau d'étoile à neutrons encapsulé après traitement. Son champ gravitationnel puissant et déformé est isolé à l'intérieur. Il est généralement utilisé pour manipuler et modifier la structure spatiale, mais cela n'empêche pas certaines personnes de l'utiliser pour concentrer les rayons du soleil et allumer un feu.
+I电路板		3	C'est un composant électrique de base très polyvalent.
+I微晶元件		3	C'est un composant microcristallin qui est la base pour réaliser des fonctions de calcul à grande vitesse dans les processeurs. Sa production implique la découpe et la fabrication de nanostructures tridimensionnelles sur des plaquettes de silicium de haute pureté.
+I处理器		3	C'est un dispositif de circuit intégré à grande échelle. L'utilisation de matériaux semi-conducteurs permet une meilleure gestion des données et du contrôle de traitement.
+I位面过滤器		3	Étudier l'oscillation de probabilité dans le temps avec la fréquence de Rabi comme fonction d'onde de particules en évolution permet d'interférer artificiellement avec elle lors d'un saut quantique pour orienter le quantum dans la direction souhaitée.
+I量子芯片		3	Avec une puissance de calcul robuste et une computation ultra-rapide, il peut prédire si un saut quantique provoquerait une erreur et l'empêcher en inversant rapidement un processus de saut qui pourrait entraîner une erreur.
+I电浆激发器		3	Le plasma généré par le Plasma Exciter haute puissance peut être utilisé pour extraire et affiner le pétrole brut ou créer des tours d'énergie sans fil pour la transmission d'énergie à distance et la charge du Mecha.
+I粒子宽带		3	Contrôler les particules de manière à ce qu'elles maintiennent une certaine régularité augmente considérablement la vitesse d'impression des particules.
+I湮灭约束球		3	Confiner la réaction d'annihilation à l'intérieur de la sphère pour obtenir une sortie d'énergie stable et contrôlée est un composant clé des étoiles artificielles.
+I光子合并器		3	La surface du prisme est découpée en nano-réseaux, puis réassemblée de manière à ce qu'un seul photon haute énergie soit émis après avoir absorbé continuellement de multiples photons basse énergie dans une combinaison spécifique. Étonnamment, les Cristaux Liquides peuvent le faire directement.
+I动力引擎		3	Une petite composante aérodynamique, utilisée comme partie de base dans de nombreux aéronefs. Ce moteur peut être fabriqué facilement à partir de matières premières bon marché.
+I推进器		3	Il peut fournir de l'énergie aux drones logistiques.
+I加力推进器		3	Il s'agit d'une version améliorée de la fusée qui peut alimenter le vaisseau logistique.
+I配送运输机		3	Il équilibre activement l'offre et la demande d'articles dans le système logistique de distribution, mais il ne livrera pas aux destinations hors de la portée de distribution.
+I物流运输机		3	Il fonctionne pour équilibrer dynamiquement l'offre et la demande d'articles dans le système logistique planétaire. Il ne fonctionne qu'avec la station logistique dont il provient.
+I星际物流运输船		3	Il fonctionne pour équilibrer activement l'offre et la demande d'articles entre les planètes. En consommant des Modules de Distorsion Spatiale, les vaisseaux logistiques peuvent lancer des vols en distorsion.
+I太阳帆		3	L'EM-Rail Ejector peut lancer de grandes quantités de voiles solaires pour créer un Essaim de Dyson, permettant une acquisition d'énergie radiante plus efficace à partir d'une étoile.
+I戴森球组件		3	Les petits lanceurs de fusées peuvent transporter les composants vers la Sphère de Dyson prévue, où ils formeront les Nœuds et les Cadres de la Sphère de Dyson.
+I小型运载火箭		3	Le véhicule de livraison des composants de la Sphère de Dyson. Plus de fusées doivent être lancées si une Sphère de Dyson doit être construite plus rapidement.
+I氢燃料棒		3	Grâce à l'amélioration de la technologie cryogénique, l'hydrogène gazeux peut se condenser en un fluide pour fabriquer des barres de combustible à l'hydrogène liquide avec un rendement de combustion plus élevé. Son utilisation comme carburant pour le Mecha peut considérablement améliorer sa puissance de combustion.
+I氘核燃料棒		3	Sous l'effet d'un champ magnétique, le deutérium peut être transformé en barres de combustible au deutéron qui peuvent produire une énergie plus puissante. Celles-ci peuvent être utilisées comme source d'énergie pour de petits systèmes de fusion.
+I反物质燃料棒		3	Les contraintes fortes de la sphère de contrainte d'annihilation agissent sur l'antimatière pour former une barre de carburant plus stable. Cette énergie puissante est alors plus sûre à exploiter.
+I金色燃料棒		1	Si la Matière Étrange est utilisée comme matière première principale pour la réaction d'annihilation, à la fois la densité d'énergie et la puissance de sortie augmenteront considérablement.
+I机枪弹箱		3	Munitions Magnum fabriquées à partir de lingots de cuivre à faible coût. Le cuivre est autolubrifiant, de sorte qu'il peut maintenir sa forme et réduire les risques de déformation et de fracture lors du tir. Une boîte de munitions contient 20 balles.
+I钛化弹箱		3	Boîtes de munitions Magnum améliorées avec des lingots de titane. Désormais, leurs têtes de guerre plus tranchantes peuvent facilement perforer l'armure de Brume Sombre. Une boîte de munitions contient 20 balles.
+I超合金弹箱		3	Boîtes de munitions Magnum renforcées avec un alliage de titane. La forme et la structure de leurs boîtiers sont modifiées sur la base d'un alliage de titane léger, ce qui résulte en une vitesse initiale plus élevée, une capacité de vol plus stable et une plus grande puissance. Une boîte de munitions contient 20 balles.
+I炮弹组		3	Les obus de base contiennent des unités combustibles efficaces. Une fois tirés à une position cible, ils explosent immédiatement et infligent des dégâts cinétiques et explosifs dans la zone. Un ensemble d'obus contient 12 obus.
+I高爆炮弹组		3	La technologie avancée des unités explosives à haute énergie améliore considérablement les obus. Un ensemble d'obus contient 12 obus.
+I晶石炮弹组		3	Les unités explosives en cristal libèrent une énergie plus importante avec un effet de frappe plus puissant, infligeant des dégâts considérables même aux unités ennemies les plus robustes. Un ensemble d'obus contient 12 obus.
+I等离子胶囊		3	Remplies de deutérium qui, lorsqu'elles sont stimulées par une tourelle à plasma, peuvent se transformer en plasmide haute température pour endommager efficacement les cibles spatiales. Chaque capsule peut être stimulée 10 fois.
+I反物质胶囊		3	L'arme à énergie ultime qui était autrefois interdite par COSMO. La cible est détruite instantanément en raison de l'énorme quantité d'énergie générée par la réaction d'annihilation lorsque la matière et l'antimatière entrent en collision. Chaque capsule peut être stimulée 10 fois.
+I导弹组		3	Le système d'identification de cible sur la tête peut ajuster la trajectoire d'attaque en temps réel en vol pour toucher les cibles. Un ensemble de missiles contient 24 missiles.
+I超音速导弹组		3	Le dynamisme du propulseur accélère massivement le missile au-delà de la vitesse du son et la recette améliorée de l'ogive et de la charge utile augmente les dégâts. Un ensemble de missiles contient 24 missiles.
+I引力导弹组		3	La pression gravitationnelle négative de la Matière Étrange est utilisée pour déformer l'espace environnant, augmentant ainsi la vitesse du missile. L'espace de déformation augmente les dégâts explosifs. Un ensemble de missiles contient 24 missiles.
+I电磁干扰胶囊		0	Une tour de brouillage peut perturber les ennemis dans sa portée en consommant une capsule de brouillage, réduisant leur vitesse de déplacement et leur cadence de tir. Chaque capsule de brouillage peut perturber 180 unités.
+I电磁压制胶囊		0	La capsule de suppression peut ralentir voire même neutraliser les ennemis, les empêchant d'attaquer. Chaque capsule de suppression peut interférer avec 180 unités.
+I地面战斗机-A型		3	Les forces au sol, qui peuvent aider Icarus dans les combats à la surface de la planète. Basé sur un prototype et équipé d'un Combiner Photon intégré, il peut absorber en continu des photons à faible énergie et les convertir en photons à haute énergie. Ce type d'arme laser peut toucher et endommager précisément les cibles sans avoir besoin d'être à proximité. Il convient pour attaquer des unités ennemies éloignées. Note : Les chasseurs au sol ne peuvent pas être déployés dans l'espace !
+I地面战斗机-F型		3	Les forces au sol, qui peuvent aider Icarus dans les combats à la surface de la planète. Basé sur un prototype et équipé d'un système d'arme EM intégré plus puissant, il ne peut attaquer que des cibles proches. Vous pouvez améliorer sa capacité de survie en améliorant son blindage. Note : Les chasseurs au sol ne peuvent pas être déployés dans l'espace !
+I地面战斗机-E型		3	Les forces au sol, des prototypes de drones de combat, qui peuvent aider Icarus dans les combats à la surface de la planète. Bien que simple et rudimentaire, il représente un bon début. Vous pouvez obtenir un meilleur drone de combat en modifiant et en améliorant le prototype. Note : Les chasseurs au sol ne peuvent pas être déployés dans l'espace !
+I太空战斗机-A型		3	Les forces spatiales, qui consistent en de petites navettes, peuvent aider Icarus dans les combats dans l'espace et atteindre des cibles lointaines.
+I太空战斗机-F型		3	Les forces spatiales qui consistent en des vaisseaux de guerre de taille moyenne. Les destroyers sont plus grands et plus agressifs. Ils sont utilisés pour attaquer les unités ennemies à proximité et ont un effet plus suppressif et destructeur. Il en coûte 4 points de commande pour commander un destroyer. Cela signifie qu'une flotte spatiale ne peut avoir que 3 destroyers au maximum à la fois.
+I战场分析基站		3	Le cœur du contrôle sur le champ de bataille avec de puissantes capacités d'analyse en temps réel et de commande. Des chasseurs auto-équipés peuvent être envoyés pour la défense de la base. Un bâtiment détruit sera automatiquement marqué d'un hologramme. Des drones de construction seront ensuite envoyés pour la construction et la réparation afin de fournir un soutien sur le champ de bataille. Une base d'analyse de champ de bataille peut également collecter les débris ennemis pour analyse et acquérir des renseignements utiles et des ressources à partir des résidus du champ de bataille.
+I存储单元		3	Une substance mystérieuse collectée à partir des débris de la Brume Sombre. Une analyse approfondie révèle que cette substance a une structure topologique que nous n'avons jamais vue auparavant. Vaguement familière mais aussi différente, elle semble contenir des informations inhabituelles. Nous pourrions peut-être obtenir quelque chose de différent en résolvant le mystère qui l'entoure.
+I硅基神经元		3	Obtenues à partir des débris de la Brume Sombre, ces neurones à base de silicium ont à la fois des capacités de stockage et de calcul. Lorsque plusieurs neurones à base de silicium sont combinés, ils peuvent simuler le fonctionnement du cerveau d'une forme de vie à base de carbone.
+I物质重组器		3	Obtenue à partir des débris de la Brume Sombre, la recherche révèle que cette substance possède de puissantes capacités de décomposition et de recomposition. Elle peut instantanément décomposer la matière en particules, puis recomposer ces particules selon la conception pour générer un type de matière différent.
+I负熵奇点		3	Les expériences initiales n'avaient identifié aucune propriété spéciale de la substance. Cependant, lorsque nous continuons à lui fournir de l'énergie, elle montre spontanément une faible négentropie.
+I共振粒子		1	Un élément de base est un nouveau type de matière que l'on peut trouver dans les débris de la Brume Sombre avancée. Il a été découvert dans des expériences qu'un élément de base peut se combiner efficacement et spontanément avec d'autres types de matière, mais il ne peut pas être singularisé par la Matière Étrange. Par conséquent, l'ajout d'un élément de base à la réaction de singularisation de la Matière Étrange peut ralentir cette réaction et la rendre plus ordonnée.
+I能量碎片		3	Une source de carburant chimique obtenue à partir des débris de la Brume Sombre. Lorsqu'il fournit de l'énergie à Icarus, son mécanisme de stimulation moléculaire interne peut accélérer la vitesse du Réplicateur.
+I低速传送带		3	Nous avons besoin d'automatisation ! Les Tapis Roulants sont les composants les plus basiques de la production automatisée. Ils peuvent transporter des cargaisons d'un endroit à un autre.
+I高速传送带		3	Ce type de Tapis Roulant permet un transport plus rapide des cargaisons et une capacité de traitement plus élevée.
+I极速传送带		3	Il peut maximiser la vitesse et la capacité de traitement des cargaisons transportées.
+I低速分拣器		3	Il peut transporter des cargaisons dans une installation via des Tapis Roulants, ou entre des installations. Des filtres peuvent être configurés pour trier les cargaisons.
+I高速分拣器		3	Il permet une récupération et un tri plus rapides des cargaisons.
+I极速分拣器		3	Il peut maximiser la vitesse de tri des cargaisons. Les technologies de mise à niveau permettent au Trieur Mk.III de transporter plus de cargaisons à la fois.
+I集装分拣器		0	Après sa mise à niveau, le Trieur de Pile peut intégrer plusieurs cargaisons en une seule et les décharger. Même s'il est légèrement plus coûteux, c'est une bonne affaire pour les ingénieurs qui s'efforcent de faire fonctionner le Tapis Roulant à pleine vitesse.
+I四向分流器		3	Il est conçu pour distribuer des cargaisons à différents Tapis Roulants ou pour les équilibrer. Des filtres et des priorités d'entrée/sortie peuvent être définis sur n'importe quel port.
+I流速监测器		3	La construction d'un débitmètre sur un Tapis Roulant surveille le débit en temps réel à un emplacement correspondant sur la bande. Des critères peuvent être spécifiés pour déclencher une alarme.
+I自动集装机		3	La construction d'un autopilote sur un Tapis Roulant fusionne automatiquement deux cargaisons sur le Tapis Roulant en une seule, ce qui améliore considérablement la capacité de transport du Tapis Roulant.
+I小型储物仓		3	Espace de stockage pour les produits, bien que sa capacité soit limitée.
+I大型储物仓		3	Il a le double de la capacité d'un entrepôt Mk.I, mais nécessite de l'acier pour être produit.
+I物流配送器		3	Une fois que le Distributeur Logistique est installé au dernier étage d'un entrepôt, le Robot Logistique livrera automatiquement le contenu de l'entrepôt à l'inventaire d'Icarus ou à d'autres Distributeurs Logistiques. Cela aide grandement Icarus à accéder à divers objets sur de courtes distances.
+I物流运输站		3	C'est le centre du système logistique planétaire. Les drones logistiques livreront automatiquement la cargaison aux stations respectives une fois que vous aurez spécifié les besoins en approvisionnement/demande. (Le transport est limité à sa propre planète)
+I星际物流运输站		3	Les gigantesques ascenseurs spatiaux facilitent le transport de matériaux entre les planètes. Ils peuvent relier les usines de différentes planètes pour former un vaste empire industriel.
+I轨道采集器		3	Il est utilisé pour collecter des ressources des géantes gazeuses. Il doit consommer les matériaux de carburant collectés pour alimenter le collecteur en orbite.
+I储液罐		3	Le réservoir de stockage a une plus grande capacité de contenant des fluides qu'un entrepôt. Le démantèlement d'un réservoir détruira le fluide stocké à l'intérieur.
+I电力感应塔		3	C'est une installation de transmission d'énergie avec une longueur de connexion particulière et une couverture qui peut étendre la portée d'approvisionnement du réseau électrique.
+I无线输电塔		3	C'est une installation de transmission d'énergie à distance qui peut puiser de l'électricité dans le réseau électrique et recharger le Mecha.
+I卫星配电站		3	C'est une installation de distribution à grande échelle capable de transmettre de l'énergie sur une plus longue portée, permettant ainsi une couverture plus large.
+I风力涡轮机		3	C'est un générateur d'énergie primaire qui convertit l'énergie éolienne en énergie électrique. Les performances de génération d'énergie réelles dépendent de l'utilisation de l'énergie éolienne de la planète. S'arrête la nuit. Des accumulateurs peuvent être utilisés pour stocker l'excédent d'électricité pendant la journée.
+I火力发电厂		3	C'est une installation qui génère de l'électricité en utilisant des matériaux combustibles, tels que le charbon, comme combustible. Le ratio de production d'énergie à la génération de chaleur dépend de la consommation de carburant.
+I微型聚变发电站		3	Sous l'effet d'un champ magnétique de haute intensité et haute densité, cette installation peut transformer l'énorme énergie émise par les barres de combustible deutéronique via une réaction de fusion contrôlée en électricité.
+I太阳能板		3	Il génère de l'électricité à partir de la lumière du soleil. Les performances réelles de génération d'énergie dépendent de l'utilisation de l'énergie lumineuse de la planète. S'arrête la nuit. Des accumulateurs peuvent être utilisés pour stocker l'excédent d'électricité pendant la journée.
+I蓄电器		3	C'est un dispositif de stockage d'énergie électrique. Lorsqu'il y a un excès d'énergie dans le réseau électrique, l'excès d'énergie sera automatiquement stocké. Lorsque l'alimentation en énergie est insuffisante, l'énergie stockée sera automatiquement libérée pour faire fonctionner l'installation.
+I蓄电器（满）		3	C'est un accumulateur complètement chargé. Il peut être utilisé soit comme installation pour libérer automatiquement de l'énergie lorsque l'alimentation en énergie est insuffisante, soit il peut être placé dans un Échangeur d'Énergie pour libérer de l'électricité.
+I射线接收站		3	Il reçoit des rayons de haute énergie transmis depuis l'Enceinte de Dyson ou la Sphère de Dyson. L'énergie reçue peut être transmise directement au réseau électrique ou stockée sous forme de photons critiques.
+I能量枢纽		3	C'est une installation qui peut convertir l'énergie électrique. Elle peut soit déposer l'excès d'énergie du réseau électrique dans un accumulateur vide pour le charger complètement, soit libérer l'énergie stockée dans un accumulateur complètement chargé.
+I地热发电站		3	C'est une installation de génération d'énergie alimentée par la lave, où plusieurs photons de faible énergie successifs sont fusionnés en un seul photon de haute énergie et l'énergie est transmise de manière stable au réseau électrique. Le rendement de la génération dépend directement de la concentration de la lave.
+I人造恒星		3	"Laissez simplement les faisceaux de protons positifs et négatifs passer silencieusement à travers le champ magnétique des deux extrémités dans la sphère de contrainte, doucement et facilement !" C'est simple mais efficace et on l'appelle le Soleil Artificiel.
+I采矿机		3	Plus les veines de minerai sont couvertes par une Machine d'Extraction, plus la vitesse d'extraction est rapide. Plusieurs Anneaux Miniers peuvent couvrir la même veine, mais plus il y a d'Anneaux Miniers couvrant une veine, plus la perte est rapide.
+I大型采矿机		3	La Puce Quantique est utilisée pour manipuler les groupes de photons générés par l'Excitateur pendant le processus de saut quantique, provoquant la concentration intense du faisceau laser. Le faisceau laser concentré chauffe rapidement les veines de minerai le long d'un chemin prédéterminé dans un champ gravitationnel spécial. Si les minerais sont transportés et contenus sous forme de particules, la construction est plus facile et les minerais sont collectés plus rapidement. Les minerais collectés peuvent être expédiés par des Tapis Roulants ou des Drones Logistiques.
+I抽水站		3	C'est une installation qui pompe directement des liquides depuis les océans, y compris l'océan d'acide sulfurique.
+I原油萃取站		3	Elle utilise un plasma focalisé pour extraire le pétrole brut des suintements de pétrole. La vitesse d'extraction dépend du rendement du suintement de pétrole et du niveau d'utilisation des ressources.
+I电弧熔炉		3	Elle fait fondre les minerais et les métaux à des températures élevées générées par l'arc électrode et est également utile pour la purification et la fusion des cristaux.
+I位面熔炉		3	Lorsque les monopôles magnétiques traversent le Filtre de Plan, ils génèrent des effets quantiques, qui peuvent produire un flux de température négative thermodynamique. Les minerais peuvent être fondus ou purifiés à des taux accélérés en utilisant ce principe.
+I熔炉 Mk.III		3	Après avoir injecté continuellement de l'énergie, la singularité de négentropie stimulée dans le Four peut libérer de manière stable de la négentropie. Malgré le fait que peu de négentropie soit obtenue, après avoir été répété et répété, le processus peut restaurer efficacement les minerais dans leur état élémentaire à partir de minerais impurs.
+I制造台 Mk.I		3	La table d'assemblage de base peut transformer des objets de base tels que des lingots de fer et de cuivre en produits plus avancés.
+I制造台 Mk.II		3	Avec une vitesse de production nettement améliorée, les objets peuvent être produits plus rapidement.
+I制造台 Mk.III		3	Il maximise la vitesse de production. Les tapis roulants et les trieurs de vitesses différentes peuvent être combinés pour éviter les tables d'assemblage vides ou les débordements de produits.
+I制造台 Mk.IV		3	Le module IA peut analyser en temps réel la recette d'un objet et décomposer les matières premières en particules en contrôlant précisément la structure et le mode de composition des molécules. Ensuite, il recompose les particules pour former les objets requis et effectue une impression quantique, améliorant considérablement la vitesse de fabrication.
+I原油精炼厂		3	De l'huile raffinée et de l'hydrogène sont obtenus en raffinant davantage le pétrole brut extrait.
+I化工厂		3	Il s'agit d'une installation de production chimique qui peut transformer les produits de base du pétrole brut en produits chimiques plus avancés.
+I化工厂 Mk.II		3	L'entrelacement quantique formé via la Matière Étrange à des points spécifiques pourrait découpler la partie la plus compliquée du phénomène chaotique dans les réactions chimiques. Cela pourrait orienter les réactions vers une direction prédéterminée. Si ces points magiques pouvaient évoluer, ils pourraient catalyser les réactions chimiques correspondantes.
+I喷涂机		3	En installant le Pulvérisateur sur un tapis roulant et en l'acheminant vers le Proliférateur par le port supérieur, les marchandises sur le tapis roulant peuvent être pulvérisées. La production est accélérée ou des produits supplémentaires sont obtenus lorsque les marchandises pulvérisées avec le Proliférateur sont utilisées comme matière première pour créer des produits de niveau supérieur.
+I分馏塔		3	Le deutérium peut être fractionné du liquide hydrogène de manière efficace en utilisant le rapport de pression de vapeur élevée de l'hydrogène liquide par rapport au deutérium liquide à une certaine température. Un tapis roulant est utilisé pour importer l'hydrogène d'un côté. Après la fractionnement, l'hydrogène sera exporté de l'autre côté, et le deutérium fractionné sera exporté par le port avant.
+I微型粒子对撞机		3	De nouvelles particules peuvent être produites lorsque deux flux de particules accélérées, atteignant une certaine intensité et énergie, entrent en collision. Il est généralement utilisé pour créer du deutérium stable et de l'antimatière, mais cela consomme une quantité considérable d'énergie.
+I矩阵研究站		3	Il s'agit d'un type de connecteur pour le Cerveau Central, qui peut soit produire des matrices soit mener des recherches. Plus il y a de laboratoires de matrices, plus la vitesse de production et de recherche est rapide.
+I矩阵研究站 Mk.II		3	Un laboratoire d'auto-évolution permet aux neurones à base de silicium d'ajuster et d'améliorer automatiquement le réseautage neuronal tout en apprenant constamment et en s'adaptant, similairement à la plasticité synaptique des neurones biologiques. Au fil du temps, les neurones à base de silicium peuvent continuer à optimiser leurs propres structures et fonctions grâce à l'auto-évolution pour résoudre les problèmes de manière plus efficace.
+I电磁轨道弹射器		3	Il éjecte un nombre considérable de Voiles Solaires pour les intégrer à l'Essaim Dyson.
+I垂直发射井		3	Il lance de petits rockets porteurs transportant des composants dans l'orbite de l'Essaim Dyson pour former des Nœuds et des Cadres.
+I高斯机枪塔		3	Un champ électromagnétique est utilisé pour accélérer la vitesse des balles. Les balles de 48 mm forment une puissance de feu dense et intense. Les dégâts infligés aux unités à basse altitude ne doivent pas être sous-estimés.
+I高频激光塔		3	Des faisceaux laser à haute énergie sont émis pour attaquer les unités ennemies qui entrent dans la portée défensive. Les températures élevées causent des dommages continus aux cibles. Les lasers à haute fréquence des Tours Laser peuvent toucher les cibles avec précision en peu de temps, mais ils consomment beaucoup d'énergie.
+I聚爆加农炮		3	Après avoir touché une cible, un obus de 280 mm peut provoquer une explosion à large échelle et infliger des dégâts explosifs aux unités et aux installations à proximité. De plus, en raison de ses caractéristiques de conception, le Canon à Impulsion ne peut pas être utilisé pour attaquer des cibles proches.
+I磁化电浆炮		3	Après stimulation, la matière à l'intérieur d'une capsule d'énergie se trouve dans un état de plasma à haute énergie. Elle est ensuite rapidement émise par l'accélérateur du Canon à Plasma pour générer des faisceaux de plasma à grande vitesse. De tels faisceaux sont extrêmement pénétrants et destructeurs, et peuvent détruire efficacement les cibles spatiales.
+I导弹防御塔		3	Équipées d'un lance-missiles avancé et d'un système d'identification de cible, les Tourelles peuvent rapidement identifier et localiser les cibles terrestres et spatiales. Une fois verrouillées sur une cible, elles lanceront des missiles. Elles sont conçues pour répondre à de multiples menaces avec une défense tout azimut.
+I干扰塔		3	Il peut perturber périodiquement les unités ennemies à proximité, réduisant leur vitesse de déplacement et leur cadence de tir. Chaque interférence consomme une capsule EM.
+I信标		3	Une installation de défense tactique qui envoie périodiquement des signaux à une fréquence spécifique pour guider la Brume Sombre, changer la direction d'une attaque et augmenter la vitesse d'assemblage de l'unité. Les Tours de Signal peuvent former une chaîne de données avec les Tourelles à Missiles pour le partage d'informations, étendant ainsi la portée d'attaque des Tourelles à Missiles.
+I护盾发生器		2	Ils peuvent créer des boucliers planétaires sur les planètes pour résister aux attaques de l'espace. Une quantité massive d'énergie est nécessaire pour un bouclier planétaire. Si le bouclier devient inefficace, la planète sera exposée à de graves menaces de l'espace. De plus, le nombre de générateurs de boucliers pouvant être construits sur une planète est limité. Le bouclier planétaire ne peut résister aux dommages de l'espace, il ne peut pas défendre contre les dommages terrestres.
+I地面电浆炮		0	Le plasma peut faire fondre les ennemis dans sa portée mais maintenir un tel dispositif n'est pas facile. Pour être capable d'attaquer des cibles à proximité, le maintien constant du plasma rend cette installation très fragile et nécessite une grande quantité d'énergie.
+I电磁矩阵		3	La base de toutes les recherches technologiques en tant que l'un des cinq codes sources de base pour maintenir la simulation du Cerveau Central.
+I能量矩阵		3	La matrice d'énergie est un moteur majeur du développement technologique ultérieur en tant que l'un des cinq codes sources de base pour maintenir la simulation du Cerveau Central.
+I结构矩阵		3	Utile pour obtenir de nouveaux matériaux structurels améliorés en tant que l'un des cinq codes sources de base pour maintenir la simulation du Cerveau Central.
+I信息矩阵		3	L'un des cinq codes sources de base pour maintenir la simulation du Cerveau Central. Le niveau de computerisation affecte considérablement le fonctionnement de la Base Principale.
+I引力矩阵		3	L'un des cinq codes sources de base pour maintenir la simulation du Cerveau Central. Il trouve un moyen de rendre la théorie des champs quantiques et la relativité générale compatibles.
+I宇宙矩阵		3	La culmination triomphante et tout compris de la théorie de tout, révélant le secret ultime de l'univers!
+R等离子精炼		3	Raffiner le pétrole brut avec du plasma pour obtenir de l'hydrogène et du pétrole raffiné.
+RX射线裂解		3	Par l'action catalytique du gaz hydrogène, le pétrole raffiné est soumis à une irradiation aux rayons X, ce qui entraîne son craquage et produit une plus grande quantité d'hydrogène, ainsi qu'un sous-produit : le graphite énergétique.
+R卡西米尔晶体（高效）		3	L'utilisation du Cristal Liquide pour la production de cristaux de Casimir entraîne une efficacité nettement améliorée.
+R卡西米尔晶体（高效）		3	L'utilisation du cristal de réseau rare pour la production du cristal Casimir se traduit par une efficacité considérablement améliorée.
+R石墨烯（高效）		3	La veine de glace de feu faciliterait grandement la production de graphène.
+R碳纳米管（高效）		3	Il est possible de produire des nanotubes de carbone en utilisant du cristal de stalagmite, cependant, ce minerai est assez rare et difficile à localiser.
+R晶格硅（高效）		3	La structure fractale unique possédée par le Silicium Fractal en fait le matériau préféré pour la production efficace de silicium cristallin.
+R金刚石（高效）		3	Trouvez du minerai de Kimberlite et vous pouvez le fondre pour produire des diamants.
+R光子合并器（高效）		3	La découverte du Cristal Liquide faciliterait la production de Prisme Photonique.
+R光子物质化		3	Sous l'influence d'un champ magnétique intense, les Photons Critiques peuvent être convertis en antimatière et en hydrogène.
+R粒子容器（高效）		3	Bien que les aimants unipolaires soient extrêmement rares, leur découverte permettrait une production plus efficace de contenants à particules.
+R重氢分馏		3	La fractionnation réussie du deutérium à partir de l'hydrogène liquide a grandement avancé l'utilisation du combustible nucléaire.
+R空间翘曲器（高级）		3	L'existence de la Matrice de Gravité facilite la production de Modules de Distorsion Spatiale.
+R有机晶体（原始）		3	Le traitement du bois, du carburant végétal et des ressources en eau permet d'obtenir du Cristal Organique.
+R重整精炼		3	En ajoutant de l'hydrogène et du charbon au pétrole raffiné et en le soumettant à un processus de reformage, une plus grande quantité de pétrole raffiné peut être produite.
+地中海		5	Mariterra
+气态巨星		5	Géante gazeuse
+冰巨星		5	Géante de glace
+干旱荒漠		5	Scorchedia
+灰烬冻土		5	Geloterra
+海洋丛林		5	Tropicana
+冰原冻土		5	Glacieon
+贫瘠荒漠		5	Desolus
+戈壁		5	Gobi
+火山灰		5	Sulfuria
+红石		5	Crimsonis
+草原		5	Prairiea
+水世界		5	Aquatica
+红土荒漠		5	Halitum
+白色海洋		5	Sakura Ocean
+三色荒漠		5	Cyclonius
+红冰荒漠		5	Maroonfrost
+草原荒漠		5	Savanna
+橙晶荒漠		5	Onyxtopia
+极寒荒漠		5	Icefrostia
+潘多拉荒漠		5	Pandora Swamp
+T戴森球计划		5	Dyson Sphere Program
+T电磁学		5	Électromagnétisme
+T电磁矩阵		5	Matrices Électromagnétiques
+T高效电浆控制		3	Contrôle du Plasma Haute Efficacité
+T等离子萃取精炼		3	Raffinage par Extraction de Plasma
+TX射线裂解		3	Craquage aux Rayons X
+T重整精炼		3	Raffinage Reconfiguré
+T电弧激光		0	Balise holographique
+T能量矩阵		5	Matrices d'Énergie
+T氢燃料棒		3	Barre de Combustible à l'Hydrogène
+T推进器		5	Propulseur
+T加力推进器		3	Propulseur Renforcé
+T流体储存封装		3	Encapsulation de Stockage de Liquide
+T基础化工		3	Ingénierie Chimique de Base
+T高分子化工		3	Ingénierie Chimique des Polymères
+T高强度晶体		3	Cristal à Haute Résistance
+T结构矩阵		5	Matrices de Structure
+T卡西米尔晶体		3	Cristal de Casimir
+T高强度玻璃		3	Verre à Haute Résistance
+T应用型超导体		3	Supraconducteur Appliqué
+T高强度材料		3	Matériau à Haute Résistance
+T粒子可控技术		3	Contrôle des Particules
+T重氢分馏		3	Fractionnement du Deutérium
+T波函数干扰		3	Interférence des Fonctions d'Onde
+T微型粒子对撞机		3	Collisionneur de Particules
+T奇异物质		3	Matériau Étrange
+T人造恒星		3	Étoile Artificielle
+T可控湮灭反应		3	Réaction d'Annihilation Contrôlée
+T增产剂 Mk.I		3	Proliférateur Mk.I
+T增产剂 Mk.II		3	Proliférateur Mk.II
+T增产剂 Mk.III		3	Proliférateur Mk.III
+T基础制造工艺		3	Assemblage de Base
+T高速制造工艺		3	Assemblage à Haute Vitesse
+T量子打印技术		3	Impression Quantique
+T处理器		5	Processeur
+T量子芯片		5	Puce Quantique
+T半导体材料		3	Matériau Semi-conducteur
+T信息矩阵		5	Matrices d'Information
+T自动化冶金		3	Métallurgie Automatisée
+T冶炼提纯		3	Fusion Purification
+T晶体冶炼		3	Fusion de Cristal
+T钢材冶炼		3	Fusion d'Acier
+T火力发电		3	Production d'Énergie Thermique
+T钛矿冶炼		3	Fusion de Titane
+T高强度钛合金		3	Alliage de Titane à Haute Résistance
+T移山填海工程		3	Reprise des Terres
+T微型核聚变发电		3	Génération d'Énergie de Fusion Miniature
+T位面冶金		3	Fusion de Plane-Filter
+T太阳能收集		3	Collecte Solaire
+T光子变频		3	Conversion de Fréquence Photonique
+T太阳帆轨道系统		3	Système d'Orbite à Voile Solaire
+T射线接收站		3	Station de Réception de Rayons
+T行星电离层利用		3	Utilisation de l'Ionosphère Planétaire
+T狄拉克逆变机制		3	Mécanisme d'Inversion de Dirac
+T宇宙矩阵		5	Matrices de l'Univers
+T任务完成		5	Mission Accomplie !
+T能量储存		3	Stockage d'Énergie
+T星际电力运输		3	Transmission d'Énergie Interstellaire
+T高强度轻质结构		3	Structure Légère à Haute Résistance
+T垂直发射井		3	Silo de Lancement Vertical
+T戴森球应力系统		3	Système de Gestion du Stress de la Sphère de Dyson
+T戴森球吸附速度		0	Vitesse de fixation de la voile solaire
+T基础物流系统		3	Système Logistique de Base
+T改良物流系统		3	Système Logistique Amélioré
+T高效物流系统		3	Système Logistique Haute Efficacité
+T集装物流系统		3	Système Logistique Intégré
+T配送物流系统		3	Système Logistique de Distribution
+T行星物流系统		3	Système Logistique Planétaire
+T星际物流系统		3	Système Logistique Interstellaire
+T气态行星开采		3	Exploitation des Géantes Gazeuses
+T电磁驱动		3	Propulsion Électromagnétique
+T磁悬浮技术		3	Technologie de Lévitation Magnétique
+T粒子磁力阱		2	Piège à Particules Magnétiques
+T引力波折射		3	Réfraction des Ondes Gravitationnelles
+T引力矩阵		5	Matrices Gravitationnelles
+T超级磁场发生器		3	Générateur de champ Super-Magnétique
+T卫星配电系统		3	Système de Distribution d'Énergie par Satellite
+T地热开采		3	Extraction Géothermique
+T大型采矿机		3	Exploitation Minière par Projecteur Photonique
+T高级化工		3	Entrelacement Quantique Mésoscopique
+T武器系统		3	Système d'Armes
+T燃烧单元		3	Unité de Combustion
+T爆破单元		3	Unité Explosive
+T晶石爆破单元		3	Unité Explosive de Cristal
+T动力引擎		3	Moteur
+T导弹防御塔		3	Tourelle de Défense Antimissile
+T聚爆加农炮		3	Canon à Impulsion
+T信号塔		3	Tour de Brouillage
+T行星防御系统		3	Système de Défense Planétaire
+T干扰塔		3	Tour de Brouillage
+T磁化电浆炮		3	Tourelle à Plasma
+T钛化弹箱		3	Caisse de Munitions en Titane
+T超合金弹箱		3	Caisse de Munitions en Superalloy
+T高爆炮弹组		3	Ensemble de Munitions à Haute Explosivité
+T超音速导弹组		3	Ensemble de Missiles Supersoniques
+T晶石炮弹组		3	Ensemble de Munitions en Cristal
+T引力导弹组		3	Ensemble de Missiles à Gravité
+T反物质胶囊		3	Capsule d'Antimatière
+T地面战斗机-A型		3	Drone de Précision
+T地面战斗机-E型		3	Prototype
+T地面战斗机-F型		3	Drone d'Attaque
+T太空战斗机-A型		3	Corvette
+T太空战斗机-F型		3	Destroyer
+T电磁胶囊II		3	Capsule de Suppression
+T电磁胶囊III		3	Capsule EM Mk.III
+T战场分析基站		3	Base d'Analyse de Champ de Bataille
+T数字模拟计算		3	Calcul Analogique Numérique
+T物质重组技术		3	Technologie de Recombinaison de Matière
+T负熵递归		3	Récursion Négentropique
+T金色燃料棒		1	Annihilation Contrôlée à Haute Densité
+T机甲核心		3	Noyau de Méca
+T机械骨骼		3	Cadre Mécanique
+T机舱容量		3	Capacité de Stockage
+T通讯控制		3	Contrôle de Communication
+T自动重建		3	Marquage de Reconstruction Automatique
+T批量建造		3	Construction en Masse
+T能量护盾		3	Bouclier d'Énergie
+T能量回路		3	Circuit d'Énergie
+T无人机引擎		3	Moteur de Drone
+T驱动引擎		3	Moteur de Propulsion
+T太阳帆寿命		3	Durée de Vie de la Voile Solaire
+T射线传输效率		3	Efficacité de Transmission de Rayons
+T垂直建造		3	Construction Verticale
+T分拣器货物叠加		3	Empilement de Marchandises par Trieur
+T分拣器货物集装		0	Intégration de Cargaison par Trieur
+T集装分拣器叠加		0	Mise à Niveau du Trieur de Pile
+T配送范围		3	Portée de Distribution
+T运输船引擎		3	Moteur de Transporteur Logistique
+T运输机舱扩容		3	Capacité de Transporteur Logistique
+T运输站集装物流		3	Logistique de Station Intégrée
+T矿物利用		3	Utilisation de Veines Minérales
+T研究速度		3	Vitesse de Recherche
+T宇宙探索		3	Exploration de l'Univers
+T动能武器伤害		3	Dommages des Armes Cinétiques
+T能量武器伤害		3	Dommages des Armes à Énergie
+T爆炸武器伤害		3	Dommages des Armes Explosives
+T战斗无人机伤害		3	Dommages des Drones de Combat
+T战斗无人机攻击速度		3	Vitesse d'Attaque des Drones de Combat
+T战斗无人机引擎		3	Moteur des Drones de Combat
+T战斗无人机耐久		3	Endurance des Drones de Combat
+T地面编队扩容		3	Expansion de l'Escadron au Sol
+T太空编队扩容		3	Expansion de la Flotte Spatiale
+T全局耐久度提升		0	Structure Améliorée										
+T行星护盾		3	Bouclier Planétaire
+T干扰塔效果		3	Puissance d'Arme EM
+戴森球计划描述		3	Bienvenue dans Dyson Sphere Program ! Vous allez établir un immense empire industriel intergalactique à partir de zéro, et forger votre propre chemin vers un miracle de l'univers, la Sphère de Dyson.
+电磁学描述		3	Les poétiques équations de Maxwell ont mis en lumière la relation entre l'électricité et le magnétisme. Basée sur une compréhension profonde de ces connaissances, des machines efficaces pour acquérir et utiliser l'énergie électrique ont été créées.
+电磁矩阵描述		2	La Matrice Électromagnétique est la fondation de toutes les technologies en tant que l'un des cinq codes source de base permettant au Cerveau Central de maintenir la simulation de la Patrie. Téléchargez des Matrices Électromagnétiques pour débloquer plus de technologies.
+高效电浆控制描述		3	Le Plasma Exciter modifié présente une stabilité et une efficacité accrues grâce à son utilisation plus efficace du plasma via des champs électriques et magnétiques.
+等离子萃取精炼描述		3	La nouvelle technologie du plasma facilite le développement industriel en améliorant considérablement l'efficacité du raffinage du pétrole brut.
+X射线裂解描述		3	La photocatalyse des rayons X à haute énergie produit plus d'hydrogène par pyrolyse du pétrole raffiné. Elle produit également du graphite énergétique par traitement des sous-produits de pyrolyse.
+重整精炼描述		3	Les avancées en génie chimique ont augmenté l'efficacité de la production de pétrole raffiné en le reformant avec de l'hydrogène et du charbon.
+能量矩阵描述		3	La Matrice Énergétique est la clé de la source d'énergie en tant que l'un des cinq codes source de base permettant de maintenir la simulation du Cerveau Central. Téléchargez des Matrices Énergétiques pour débloquer plus de technologies énergétiques.
+氢燃料棒描述		3	Grâce à l'amélioration de la technologie cryogénique, l'hydrogène gazeux peut se condenser en un fluide pour fabriquer des barres de combustible d'hydrogène liquide avec un rendement de combustion plus élevé. L'utiliser comme carburant pour le Mecha peut considérablement améliorer sa puissance de combustion.
+推进器描述		3	Un moteur haute efficacité propulse les drones logistiques pour voyager entre les stations logistiques planétaires sur une planète grâce à la contre-force générée par l'éjection à grande vitesse de la masse de plasma.
+加力推进器描述		3	Un moteur amélioré propulse les vaisseaux logistiques pour voyager entre les planètes.
+流体储存封装描述		3	Permet la conteneurisation des fluides pour un transport plus pratique.
+基础化工描述		3	Le développement scientifique aurait stagné sans le génie chimique.
+高分子化工描述		3	Une nouvelle technologie de synthèse de polymères qui transforme le pétrole raffiné et le plastique en un nouveau matériau, le Cristal Organique.
+高强度晶体描述		3	Les cristaux de titane haute résistance sont obtenus en modifiant la structure du réseau de titane en ajoutant une proportion précise de Cristal Organique.
+结构矩阵描述		3	Les matrices de structure sont l'un des cinq codes sources de base pour la maintenance de la simulation du Cerveau Central. Le téléchargement de matrices de structure augmente l'expertise sur les structures matérielles.
+结构矩阵描述		3	Les Matrices de Structure sont l'un des cinq codes source de base permettant de maintenir la simulation du Cerveau Central. Télécharger des Matrices de Structure augmente l'expertise en matière de structures matérielles.
+卡西米尔晶体描述		3	Un cristal spatial en forme d'anneau construit avec un fort champ électrique et utilisant la répulsion de Coulomb entre les particules. L'utilisation d'un champ magnétique statique faible produit un effet Casimir significatif.
+高强度玻璃描述		3	Un verre haute densité, avec une complexité et une densité plus élevées, adapté à la fabrication industrielle. Il est obtenu en ajoutant une proportion définie de titane et de Cristal Organique au verre fondu.
+应用型超导体描述		3	L'émergence du graphène est une percée en technologie des matériaux. La supraconductivité peut être détectée dans le graphène à deux couches tordues à un certain "angle magique".
+高强度材料描述		3	Plus durs que les diamants, les nanotubes de carbone sont utilisés pour fabriquer des objets spéciaux capables de maintenir leur intégrité structurelle dans des environnements industriels à haute pression.
+粒子可控技术描述		3	La maîtrise de la technologie de manipulation des particules est grandement bénéfique malgré sa profondeur et sa complexité. La manipulation des particules est beaucoup plus facile une fois que la structure des particules adopte un motif dans certaines conditions.
+重氢分馏描述		3	Le deutérium peut être fractionné efficacement à partir de l'hydrogène liquide en utilisant le rapport de pression de vapeur élevée de l'hydrogène liquide par rapport au deutérium liquide à une certaine température.
+波函数干扰描述		3	Diverses actions peuvent être entreprises pour provoquer une interférence dans la fonction d'onde d'une particule en maîtrisant le modèle des variations de probabilité lors d'un saut quantique, ce qui signifie que l'effondrement quantique peut être prédit plus facilement. L'utilisation de cette technologie peut être plus conviviale pour le chat.
+微型粒子对撞机描述		3	En tant que projet coûteux mais précieux, la construction d'un petit collisionneur de particules nécessite des matériaux avancés et une grande alimentation en énergie.
+奇异物质描述		3	La Matière Étrange est une matière dégénérée contenant des quarks étranges provenant des noyaux atomiques. Elle est produite en soumettant de la vapeur de fer à l'énorme énergie générée par la fusion deutérium-deutérium et en comprimant la vapeur de fer en un point minuscule.
+人造恒星描述		3	Une production plus stable du réseau électrique généré par des collisions entre matière et antimatière peut être obtenue en régulant une Sphère de Contrainte d'Annihilation. La technologie présente également une efficacité énergétique suffisamment élevée pour produire une radiation de cœur stable avec des longueurs d'onde visibles à l'œil humain, faisant de la réacteur un "petit soleil ardent".
+可控湮灭反应描述		3	Lorsqu'une particule de matière entre en collision avec une particule d'antimatière, son annihilation génère une énergie massive. L'utilisation robuste de l'énergie est obtenue lorsque le processus d'annihilation est contrôlable.
+增产剂 Mk.I描述		3	Les Proliférateurs ont transformé l'ensemble du système de production. Lorsqu'ils sont pulvérisés sur les produits par le Spray Coater, des produits supplémentaires ou un effet d'accélération de la production sont obtenus.
+增产剂 Mk.II描述		3	Le Proliférateur MK.II est inventé avec une formule améliorée. Cela permet de générer plus de produits supplémentaires ou d'améliorer l'effet d'accélération de la production.
+增产剂 Mk.III描述		3	Il est clair que l'utilisation de Proliférateurs dans la production industrielle a fait une différence. Donc, en raison de cette nouvelle compréhension, la mise à niveau des Proliférateurs est une grande priorité. Grâce aux progrès de la technologie des matériaux et des techniques de fabrication, l'invention du Proliférateur MK.III a eu un impact significatif sur la prolifération des produits, même si elle régule étroitement la conception des lignes de production.
+基础制造工艺描述		3	Une machine d'assemblage de base qui intègre la technologie mécanique traditionnelle pour transformer des objets primaires en produits avancés.
+高速制造工艺描述		3	Une version améliorée de la machine d'assemblage de base avec une vitesse de fabrication de produits améliorée.
+量子打印技术描述		3	La structure microscopique 3D des particules peut être manipulée pour maximiser la vitesse de fabrication en utilisant la technologie d'impression quantique.
+处理器描述		3	Un circuit intégré à grande échelle pour un traitement efficace des données et le contrôle du traitement.
+量子芯片描述		3	Une puce quantique augmente les probabilités de trouver des particules dans certains états en interférant avec les fonctions d'onde des particules lors d'un saut quantique en ligne avec les oscillations de Rabi correspondantes.
+半导体材料描述		3	Les composants microcristallins semi-conducteurs sont un matériau idéal pour la production de processeurs.
+信息矩阵描述		3	Un transfert instantané et efficace de l'information peut entraîner une amélioration drastique de la production industrielle. L'obtention de plus de technologies de l'information en téléchargeant des Matrices d'Information améliore la gestion de l'information des lignes de production automatisées.
+自动化冶金描述		3	L'invention des Fours à Arc a stimulé le développement de la technologie métallurgique. Un Four améliore l'efficacité de la fusion grâce à l'automatisation.
+冶炼提纯描述		3	Résultant des récents progrès en métallurgie, la technologie de purification du minerai permet l'extraction de produits avancés de haute pureté.
+晶体冶炼描述		3	Avec une meilleure compréhension des structures de réseau et des avancées dans la technologie de raffinage, une méthode de fusion plus avancée pour la préparation de cristaux haute résistance est disponible.
+钢材冶炼描述		3	La fusion des lingots de fer avec un Four à des températures très strictes et contrôlées améliorera les propriétés mécaniques des produits en modifiant leur forme cristalline.
+火力发电描述		3	Une centrale électrique dans laquelle l'énergie thermique des combustibles combustibles est partiellement convertie en énergie de sortie.
+钛矿冶炼描述		3	Grâce aux progrès de l'exploitation minière et de la fusion, il est devenu plus facile d'acquérir et de contrôler l'exploitation minière du titane et de l'utiliser.
+高强度钛合金描述		3	Une nouvelle matière alliée dotée d'une meilleure résistance et durabilité. Préparée en ajoutant une formule d'éléments d'alliage à du titane lors du processus de fusion, en respectant la structure en treillis dépendante de la température du titane.
+移山填海工程描述		3	L'extraction de tas de sol à partir de surfaces surélevées pour la remise en état des terres facilite la construction d'usines. L'extraction du sol et la remise en état des terres nécessitent toutes deux des fondations.
+微型核聚变发电描述		3	La toute dernière génération de fusion contrôlée qui permet la création de réacteurs à fusion compacts en utilisant un stellator pour confiner un plasma statique à haute température dans des cœurs de réacteur avec des barres de combustible deutérium typiques.
+位面冶金描述		3	La recherche montre qu'un flux de particules à une température négative thermodynamique peut être généré en filtrant les états quantiques des monopôles avec la technologie d'interférence des fonctions d'onde. L'utilisation de ce phénomène accélérera considérablement la fusion ou la purification des minerais.
+太阳能收集描述		3	Les panneaux solaires ne collectent qu'une infime proportion de l'énergie du rayonnement électromagnétique du soleil, il est donc nécessaire de trouver une méthode plus efficace.
+光子变频描述		3	Un Prisme Photonique réduit efficacement les pertes lors de la collecte d'énergie solaire en convertissant les photons de basse fréquence en photons de haute fréquence.
+太阳帆轨道系统描述		3	Utilisez les <color="#FD965ECC">Éjecteurs EM-Rail</color> pour lancer en continu et à grande échelle les <color="#FD965ECC">Voiles Solaires</color> afin de former un Essaim de Dyson pour collecter l'énergie du rayonnement stellaire de manière plus efficace.
+射线接收站描述		3	Le Récepteur de Rayons peut recevoir les rayons à haute énergie qui sont transmis depuis la Sphère de Dyson et délivrer directement l'énergie reçue au Réseau Électrique. L'efficacité de la réception des rayons détermine l'énergie obtenue.
+行星电离层利用描述		3	La technologie d'Utilisation de l'Ionosphère Planétaire donne au Récepteur de Rayons plus de temps pour les rayonnements à haute énergie pendant un cycle jour et nuit en étendant l'altitude effective pour la réception des rayons jusqu'à la limite extérieure de l'exosphère et en augmentant leurs temps de fonctionnement.
+狄拉克逆变机制描述		3	Révélé par l'étude inverse de l'équation de Dirac, des paires proton-antiproton peuvent être facilement produites par la collision entre des cordes ouvertes vibrantes dans un état critique généré par la concentration de rayons gamma. Cette technologie améliorera considérablement l'efficacité des Récepteurs de Rayons et convertira l'énergie stellaire en Antimatière pour le stockage.
+宇宙矩阵描述		3	En tant que produit ultime de la théorie du tout qui explique le mystère de l'univers, la Matrice de l'Univers tout-encompassante révèle l'identité des matériaux, de l'énergie et de l'information.
+任务完成描述		3	Félicitations, Bâtisseur de la Grande Civilisation !\r\nVotre diligence est récompensée par l'achèvement de la mission principale du Programme de la Sphère de Dyson. (Le jeu continuera après l'achèvement).
+能量储存描述		3	Utilisez un <color="#FD965ECC">Accumulateur</color> pour stocker l'énergie excédentaire dans le Réseau Électrique. L'Accumulateur aide également à maintenir les opérations de l'usine en libérant automatiquement l'énergie stockée lorsque l'alimentation sur le réseau est insuffisante.
+星际电力运输描述		3	Utilisez un <color="#FD965ECC">Échangeur d'Énergie</color> pour réaliser la transmission interstellaire d'énergie en convertissant l'énergie excédentaire dans le Réseau Électrique en Accumulateurs complètement chargés et en les déchargeant sur une autre planète depuis un autre <color="#FD965ECC">Échangeur d'Énergie</color>.
+高强度轻质结构描述		3	Une nouvelle structure légère de haute densité fabriquée à partir de nanotubes de carbone offrant une meilleure résistance à la gravité stellaire que les structures traditionnelles.
+垂直发射井描述		3	Lancez des <color="#FD965ECC">Composants de la Sphère de Dyson</color> avec une <color="#FD965ECC">Petite Fusée Porteuse</color> pour les ajouter aux Cadres et aux Nœuds d'une Sphère de Dyson.
+戴森球应力系统描述		3	La distribution des contraintes à la surface d'un Nœud de la Sphère de Dyson devient plus complexe à des latitudes plus élevées, il sera donc plus difficile d'équilibrer le système de contraintes.
+戴森球吸附速度描述		0	Les nœuds Dyson peuvent absorber les voiles solaires plus rapidement grâce à une compréhension plus approfondie du champ de gravité.
+基础物流系统描述		3	Utilisez des <color="#FD965ECC">Tapis Roulants</color> et des <color="#FD965ECC">Trieurs</color> pour permettre la production automatisée en transportant des marchandises d'un endroit à un autre.
+改良物流系统描述		3	Un <color="#FD965ECC">Séparateur</color> augmente la variété des conceptions des lignes de transport automatisées en divisant les marchandises en plusieurs lots pour une distribution plus facile ou en coordonnant plusieurs Tapis Roulants.\r\nUtilisez la touche TAB pour changer de style.
+高效物流系统描述		3	Le Trieur MK.III trie les marchandises de manière plus efficace, il est donc plus utile lorsque la demande en ressources augmente.
+集装物流系统描述		3	Avec une meilleure compréhension des structures de matériaux, la technologie de la Logistique Intégrée a désormais amélioré et augmenté la capacité de transport des Tapis Roulants en combinant deux objets successifs sur un Tapis Roulant en un seul.
+配送物流系统描述		3	Utilisez des Distributeurs Logistiques et des Robots Logistiques pour assurer la distribution de marchandises entre les Dépôts ou entre le Dépôt et l'Icarus <color="#FD965ECC">sur une planète</color>.
+行星物流系统描述		3	Le transport de marchandises à <color="#FD965ECC">l'échelle de la planète</color> peut être réalisé grâce aux Stations Logistiques Planétaires et aux Drones Logistiques lorsque la technologie des matériaux atteint un certain niveau. Avec une configuration appropriée des tâches d'approvisionnement, la livraison automatique de marchandises est possible avec les Drones Logistiques.
+星际物流系统描述		3	Un gigantesque ascenseur spatial pour un transport interstellaire de matériaux plus pratique.
+气态行星开采描述		3	Un géant gazeux est riche en ressources, et son exploitation montre que la technologie a atteint des sommets inégalés.
+电磁驱动描述		3	Déverrouillez le Moteur Électrique, le composant de base d'un système d'alimentation.
+磁悬浮技术描述		3	Une turbine électromagnétique génère une force magnétique pour faire défier la gravité des objets.
+粒子磁力阱描述		3	Ce dispositif est développé lorsque la technologie des matériaux atteint un certain niveau. Il peut confiner les particules et les amener à se comporter de certaines manières.
+引力波折射描述		3	Une lentille Graviton complexe fabriquée à partir de Matière Étrange qui est utilisée pour déformer l'espace périphérique et réfracter les gravitons qui la traversent.
+引力矩阵描述		3	Les Matrices de Gravité font partie des cinq codes sources de base pour maintenir la simulation du Cerveau Central. Leur recherche a permis de concilier la Théorie Quantique des Champs et la Théorie de la Relativité Générale.
+超级磁场发生器描述		3	Bien que extrêmement difficile, la création robuste d'un champ magnétique artificiel de haute intensité est la clé du développement d'autres technologies avancées. La maîtrise de la technologie d'Excitation du Champ Magnétique Supérieur s'avérera décisive dans le développement technologique.
+卫星配电系统描述		3	L'utilisation des champs magnétiques puissants stimulés par l'anneau de champ magnétique superposé peut permettre la transmission de l'électricité sur de longues distances avec une couverture plus large.
+地热开采描述		3	Une planète de lave est riche en magma avec une énorme énergie, qui peut être exploitée grâce à la technologie d'Extraction Géothermique.
+大型采矿机描述		3	Dans un certain champ gravitationnel, un effet significatif de regroupement des photons peut être provoqué en régulant la propagation d'un groupe de photons avec une interférence positive générée par des puces quantiques lors des transitions du groupe. Un tel faisceau laser à haute énergie (groupe de photons) peut instantanément fendre une veine de minerai et convertir les minerais en particules pour le transport et l'encapsulation, ce qui améliore considérablement l'efficacité de l'exploitation minière.
+高级化工描述		3	La puissance de calcul massive des puces quantiques permet de placer de la Matière Étrange à des points spécifiques, ce qui amplifie l'effet d'intrication des quanta individuels au niveau macromoléculaire. Avec cette technologie, il est facile de révolutionner l'industrie traditionnelle de la chimie.
+武器系统描述		3	Une fois que les armes apparaissent, la donne est changée. Icarus dispose de ce dont il a besoin pour combattre la Brume Sombre et protéger la base, et peut également répondre calmement aux raids.
+燃烧单元描述		3	Le charbon peut libérer de l'énergie de manière plus efficace et puissante après que sa géométrie moléculaire a été élaboratement modifiée.
+爆破单元描述		3	Une formule chimique classique. Après l'optimisation des conditions de réaction et des ratios de matières premières, des explosifs fiables peuvent être fabriqués et manipulés facilement.
+晶石爆破单元描述		3	Les combats de plus en plus intenses nécessitent des unités explosives capables d'infliger des dégâts plus larges et plus importants. La structure de réseau spécial du Cristal de Casimir peut améliorer la puissance des unités explosives et leur permettre de se fracturer en éclats tranchants en cas d'impact extrême.
+动力引擎描述		3	L'importance des forces spatiales est évidente. Avoir une défense spatiale solide change la donne sur le champ de bataille. Les unités de puissance aérienne fabriquées à partir de matières premières de base sont simples mais fiables.
+导弹防御塔描述		3	Avec un système d'identification et de positionnement avancé, une Tourelle à Missiles peut frapper précisément les unités terrestres et spatiales, et peut également défendre une base de manière globale. Bien que sa structure soit compliquée, elle est très pratique.
+聚爆加农炮描述		3	Après des calculs précis, des unités combustibles sont spécialement réparties dans une coque pour déclencher des explosions agrégées. Comme les produits explosifs et l'énergie sont concentrés, les dégâts infligés sont plus importants.
+信号塔描述		3	Une recherche à long terme a montré que la Brume Sombre est particulièrement sensible à certaines ondes. Peut-être que cela peut être utilisé pour produire une installation qui déclenche la haine de la Brume Sombre et l'incite à une attaque ciblée.
+行星防御系统描述		3	Comment devrions-nous réagir face à une multitude d'ennemis ? Utilisez un Générateur de Bouclier Planétaire pour protéger toute la planète ! Cela vaut la peine d'essayer, bien que cela consomme beaucoup d'énergie. Vous devez vous préparer au combat !
+干扰塔描述		1	Des champs électromagnétiques changeants rapidement peuvent générer des courants induits au sein des composants internes des formes de vie mécaniques, entraînant un certain degré d'interférence avec leurs opérations logiques.
+磁化电浆炮描述		3	En stimulant les champs électriques et en contrôlant les champs magnétiques, les substances gazeuses sont ionisées pour former un flux de plasma en mouvement rapide, ce qui confère la capacité d'infliger des dommages importants.
+钛化弹箱描述		3	Étant donné que cela implique de la Brume Sombre, des ogives plus tranchantes sont nécessaires pour percer l'armure des ennemis. Les boîtes de munitions Magnum améliorées avec des lingots de titane infligeront des dommages plus importants.
+超合金弹箱描述		3	La forme et la structure des étuis de munitions déterminent la vitesse et la pénétrabilité des balles. Comment peut-on atteindre une vitesse initiale plus élevée et des performances de vol plus stables ? Un alliage de titane à haute intensité et faible densité est le matériau optimal. Laissez les balles voler plus loin !
+高爆炮弹组描述		3	Les nouvelles ogives nécessitent une capacité explosive plus élevée et une plus grande stabilité.
+超音速导弹组描述		3	Des systèmes de contrôle et de propulsion plus précis permettent une plus grande précision et des capacités d'attaque accrues pour les missiles.
+晶石炮弹组描述		3	Les gaz sous haute pression et les ondes de choc résultant des explosions peuvent rapidement rompre les matériaux environnants et les transformer en éclats rapides. De tels éclats possèdent une énorme quantité d'énergie cinétique et peuvent détruire et endommager des cibles en peu de temps.
+引力导弹组描述		3	L'espace environnant des missiles est déformé en raison de la pression gravitationnelle négative de la Matière Étrange, accélérant ainsi les missiles. Écrasez tous les ennemis !
+反物质胶囊描述		3	La majorité des ennemis seront détruits immédiatement en raison de l'énorme quantité d'énergie générée par la réaction d'annihilation lorsque la matière et l'antimatière entrent en collision.
+地面战斗机-A型描述		3	Les systèmes de puissance et d'armement sont améliorés sur la base d'un prototype modifié pour leur donner une plus grande portée et une plus grande vitesse.
+地面战斗机-E型描述		3	En plus des tourelles dans des zones fixes, Icarus a également besoin de moyens actifs pour lancer des attaques. Un drone de combat simplement construit serait son meilleur partenaire.
+地面战斗机-F型描述		3	Basé sur un prototype constamment optimisé, des systèmes d'armure et d'armement plus puissants sont équipés pour attaquer les ennemis à proximité et fournir un soutien puissant à Icarus sur le champ de bataille.
+太空战斗机-A型描述		3	Alors que la Brume Sombre lance des raids ici et là, le combat ne se limite plus au sol. Il est temps de déployer des forces spatiales !
+太空战斗机-F型描述		3	Nous avons réalisé l'importance et la complexité des vaisseaux de guerre lors des combats contre les forces spatiales de la Brume Sombre. Les vaisseaux de guerre nécessitent une grande puissance et d'excellentes capacités de survie s'ils doivent aider Icarus à gagner un avantage sur le champ de bataille.
+电磁胶囊II描述		0	La capsule améliorée renforce l'effet de ralentissement.
+电磁胶囊III描述	?	0	Description de la capsule électromagnétique III
+战场分析基站描述		3	Nous avons besoin d'un système de commande de champ de bataille autonome et d'un système de soutien au combat lorsque Icarus est loin de la base.
+数字模拟计算描述		3	Pour éviter de gaspiller une puissance de calcul précieuse pour des choses inutiles, la simulation numérique permet des calculs analogiques via des signaux électriques discrets et fournit des réponses à des problèmes complexes, tout comme le fait un cerveau biologique.\r\n<color="#FD965ECC">Attention :</color> Cette technologie a été interdite par le Comité d'éthique technologique de COSMO. <color="#FD965ECC">Veuillez lancer cette recherche manuellement.</color>
+物质重组技术描述		3	Le Recombinateur de Matière recompose les matières premières à la taille des particules pour accélérer massivement la vitesse de fabrication. Cependant, ces composants de base ne peuvent être obtenus qu'à partir de débris de la Brume Sombre de haut niveau.\r\n<color="#FD965ECC">Attention :</color> Cette technologie a été interdite par le Comité d'éthique technologique de COSMO. <color="#FD965ECC">Veuillez lancer cette recherche manuellement.</color>
+负熵递归描述		3	En supposant qu'une énergie régulée soit constamment entrée, la matière peut générer une néguentropie par des appels auto-similaires. Une telle notion implique la possibilité de passer d'une matière désordonnée à l'ordre.\r\nCela nécessite de placer l'ensemble du système dans des conditions extrêmes pour générer de la néguentropie. Pour les ingénieurs inexpérimentés, cette opération peut avoir un impact sur la robustesse et la sécurité de l'ensemble du système.\r\n<color="#FD965ECC">Attention :</color> Cette technologie a été interdite par le comité d'éthique technologique de COSMO. <color="#FD965ECC">Veuillez lancer cette recherche manuellement.</color>
+金色燃料棒描述		1	La masse de la Matière Étrange est bien supérieure à celle de l'hydrogène, donc si elle est utilisée comme matière première pour la réaction d'annihilation, nous pourrons obtenir des sources d'énergie plus efficaces.\r\nLa Matière Étrange convertira la matière et ce processus est incontrôlable. Qu’en est-il de la conversion de l’antimatière en antimatière étrange ? Officiellement, elle n'existe pas...\r\n<color="#FD965ECC">Attention :</color> Cette technologie a été interdite par le comité d'éthique technologique de COSMO. <color="#FD965ECC">Veuillez lancer cette recherche manuellement.</color>
+机甲核心描述		3	Améliore le Mecha et augmente sa durabilité, sa portée d'attaque, ses dégâts et sa capacité énergétique.
+机甲核心描述2		3	Améliore encore le Mecha et augmente considérablement sa durabilité, ses dégâts et sa capacité énergétique.
+机械骨骼描述		3	Augmente la vitesse de déplacement du Mecha.
+机械骨骼描述2		3	Augmente encore la vitesse de déplacement du Mecha. Cela consomme plus d'énergie.
+机舱容量描述		3	Augmente l'espace d'inventaire pour les objets afin que le Mecha puisse transporter plus d'objets.
+机舱容量描述2		3	Augmente l'espace d'inventaire et la liste logistique afin que le Mecha puisse transporter plus d'objets.
+通讯控制描述		3	Un réseau de communication fort et robuste permet au Mecha de contrôler plus de Drones de Construction.
+通讯控制描述2		3	Augmente le nombre de Drones de Construction contrôlables.\r\nPlus le nombre de Drones de Construction est élevé, plus la progression de la construction est rapide et plus la consommation d'énergie du cœur du Mecha est élevée.
+通讯控制描述3		3	Un Drone de Construction peut exécuter plus de tâches de construction en même temps.
+自动重建描述		3	La technologie d'analyse des dommages de combat améliorée facilite l'analyse des bâtiments en ruine, permettant le marquage des cibles pour une reconstruction accélérée.
+自动重建描述6		3	La technologie ultime de Reconstruction Automatique permet une analyse rapide des bâtiments en ruine, permettant le marquage instantané des cibles pour la reconstruction.
+批量建造描述		3	Avec cette technologie, le plan actuel de lignes de production peut être répliqué en lot pour faciliter grandement la construction. Un plan enregistré est disponible même dans un amas différent.\r\n(La technologie de Construction en Masse de base a une limite sur le nombre d'installations)
+批量建造描述2		3	Technologie avancée de Construction en Masse qui permet la construction de plus d'installations en une seule fois.
+批量建造描述5		3	La technologie ultime de construction en masse pour la construction basée sur un plan sans limite d'installation.
+解锁能量护盾描述		3	Un Bouclier Énergétique peut résister aux dommages des ennemis et protéger toutes les installations situées dans son rayon d'action. Cependant, les Boucliers d'Énergie consomment de l'énergie. Une fois cette énergie épuisée, il faut un certain temps pour que les Boucliers d'Énergie redémarrent.
+能量护盾描述		3	Améliore le rayon et la puissance du Bouclier Énergétique d'Icarus.
+能量护盾描述3		0	Améliorez le rayon et la puissance du Bouclier Énergétique d'Icarus. Une fois l'Explosion du Bouclier Énergétique déverrouillé, appuyez et maintenez [<color="#FD965ECC">B</color>] dans l'interface de combat (<color="#FD965ECC">Z</color>) pour accumuler de l'énergie à partir du bouclier énergétique. Ensuite, relâchez l'Explosion du Bouclier Énergétique. <color="#FD965ECC">Plus l'énergie accumulée est importante, plus les dégâts de l'Explosion du Bouclier Énergétique sont élevés.</color>
+能量护盾描述7		3	Augmente encore la capacité énergétique du Bouclier d'Icarus.
+能量回路描述		3	Augmente la vitesse de <color="#FD965ECC">récupération de l'énergie</color> du cœur du Mecha.\r\nPlus la puissance de la chambre de carburant est élevée, plus la conversion du carburant en énergie est rapide.
+无人机引擎描述		3	Les percées technologiques dans les moteurs de drones ont augmenté la vitesse des Drones de Construction.
+无人机引擎描述2		3	Augmente encore la vitesse des Drones de Construction. Cela consomme plus d'énergie.
+驱动引擎描述		3	Appuyez deux fois sur la touche <color="#FD965ECC">ESPACE</color> pour décoller ; la vitesse du Mecha augmente de <color="#FD965ECC">150%</color> en mode vol. Cela consomme beaucoup d'énergie.
+驱动引擎描述2		3	Appuyez deux fois sur la touche <color="#FD965ECC">ESPACE</color> pour décoller. Maintenez la <color="#FD965ECC">touche pour le déplacement vers l'avant</color> et <color="#FD965ECC">ESPACE</color> en mode vol pour activer le mode croisière à une certaine altitude. En mode croisière, le Mecha orbitera autour d'une planète à une vitesse plus élevée.
+驱动引擎描述3		3	La vitesse de croisière maximale du Mecha sera augmentée, mais cela consommera d'énormes quantités d'énergie.
+驱动引擎描述4		3	Appuyez sur <color="#FD965ECC">CAPSLOCK</color> pour activer le vol en distorsion ; 1x <color="#FD965ECC">Space Warper</color> sera consommé.
+驱动引擎描述5		3	La vitesse de vol en distorsion maximale du Mecha sera augmentée, mais cela consommera d'énormes quantités d'énergie.\r\nAppuyez sur [<color="#FD965ECC">SHIFT</color>] et [<color="#FD965ECC">S</color>] pour contrôler la vitesse de vol en distorsion.
+太阳帆寿命描述		3	Prolonge la durée de vie des Voiles Solaires.
+射线传输效率描述		3	Réduit la dissipation dans la transmission des rayons solaires pour une efficacité de transmission plus élevée.
+垂直建造描述		3	Permet une utilisation plus efficace de l'espace pour les Depots, les Réservoirs de Stockage et les Laboratoires de Matrices en permettant la construction de plus de niveaux verticalement.
+分拣器货物叠加描述		3	Augmente le nombre d'articles empilables dans un Trieur Mk.III.
+分拣器货物叠加描述2		0	La technologie de "Trieur de Pile Ultime" permet à un Trieur Mk.III de transférer des cargaisons empilées.
+集装分拣器货物叠加描述		0	Un Trieur de Pile peut délivrer <color="#FD965ECC">2</color> cargaisons empilées lors du déchargement sur un Tapis Roulant. S'il y a des cargaisons non empilées sur le Tapis Roulant, le Trieur de Pile peut directement empiler les objets identiques transportés sur les cargaisons non empilées, permettant d'atteindre la quantité maximale empilable de cette cargaison.
+集装分拣器货物叠加描述2		0	Augmentez la quantité de cargaisons que le Trieur de Pile peut charger à chaque cycle.
+集装分拣器货物叠加描述3		0	Optimisez la capacité du Trieur de Pile en lui permettant de charger et décharger simultanément des cargaisons.
+集装分拣器货物叠加描述4		0	Un Trieur de Pile peut délivrer <color="#FD965ECC">3</color> cargaisons empilées lors du déchargement sur un Tapis Roulant. S'il y a des cargaisons non empilées sur le Tapis Roulant, le Trieur de Pile peut directement empiler les objets identiques transportés sur les cargaisons non empilées, permettant d'atteindre la quantité maximale empilable de cette cargaison.
+集装分拣器货物叠加描述5		0	Un Trieur de Pile peut délivrer <color="#FD965ECC">4</color> cargaisons empilées lors du déchargement sur un Tapis Roulant. S'il y a des cargaisons non empilées sur le Tapis Roulant, le Trieur de Pile peut directement empiler les objets identiques transportés sur les cargaisons non empilées, permettant d'atteindre la quantité maximale empilable de cette cargaison.
+配送范围描述		3	Augmente la plage de distribution d'un Distributeur Logistique.
+运输船引擎描述		3	Augmente la vitesse d'un Drone Logistique.\r\nAugmente la vitesse d'un Robot Logistique.
+运输船引擎描述2		3	Augmente la vitesse d'un Drone Logistique.\r\nAugmente la vitesse d'un Robot Logistique.\r\nAugmente la vitesse d'un Vaisseau Logistique.
+运输船引擎描述3		3	Augmente la vitesse d'un Drone Logistique.\r\nAugmente la vitesse d'un Robot Logistique.\r\nAugmente la vitesse d'un Vaisseau Logistique.\r\nPermet à un Vaisseau Logistique de se déformer.
+运输机舱扩容描述		3	Augmente considérablement la capacité de transport d'un Drone Logistique en utilisant la technologie de compression des matériaux pour la logistique.\r\nAugmente la capacité de transport d'un Robot Logistique.
+运输机舱扩容描述2		3	Augmente encore la capacité de transport d'un Drone Logistique.\r\nAugmente encore la capacité de transport d'un Robot Logistique.
+运输机舱扩容描述3		3	Augmente encore la capacité de transport d'un Drone Logistique.\r\nAugmente encore la capacité de transport d'un Robot Logistique.\r\nAugmente la capacité de transport d'un Vaisseau Logistique.
+运输机舱扩容描述4		3	Augmente encore la capacité de transport d'un Drone Logistique.\r\nAugmente encore la capacité de transport d'un Robot Logistique.\r\nAugmente encore la capacité de transport d'un Vaisseau Logistique.
+运输机舱扩容描述5		3	Augmente encore la capacité de transport d'un Drone Logistique.\r\nAugmente encore la capacité de transport d'un Robot Logistique.\r\nAugmente encore la capacité de transport d'un Vaisseau Logistique.\r\nAugmente la capacité de stockage maximale d'une Station Logistique.
+运输机舱扩容描述6		3	Augmente encore la capacité de transport d'un Drone logistique.\r\nAugmente encore la capacité de transport d'un Vaisseau logistique.
+运输站集装物流描述1		3	Le nombre d'intégrations de cargaison sortante est configurable dans l'onglet "Configuration" d'une Station Logistique. Si "Jusqu'à la limite technologique" est sélectionné, le nombre d'intégrations sera configuré automatiquement en fonction de la limite maximale autorisée par les technologies actuellement déverrouillées.
+运输站集装物流描述2		3	Augmente encore le nombre d'intégrations de cargaison sortante pour les Stations Logistiques Planétaires et Interstellaires.
+矿物利用描述		3	Utilisez les ressources de manière efficace pour réduire considérablement les pertes de minerai par opération minière et augmenter la vitesse de minage.
+矿物利用描述2		3	Réduit encore les pertes de minerai par opération minière.\r\nAugmente encore la vitesse de minage.
+研究速度描述		3	Avoir un ordinateur puissant et rapide est essentiel pour accélérer la recherche technologique.
+宇宙探索描述1		3	Une étape de plus sur une planète est une étape de plus dans l'univers. Tout ce que vous rencontrerez sera inconnu mais fascinant !
+宇宙探索描述2		3	Consultez les réserves de minerai dans ce système planétaire.
+宇宙探索描述3		3	Tout est sous contrôle : consultez les réserves de minerai dans les systèmes planétaires situés à moins de 6 années-lumière.
+宇宙探索描述4		3	Trouvez des minerais rares dans l'univers pour augmenter considérablement l'efficacité de production.
+动能武器伤害描述		3	Augmente les dégâts infligés par toutes les armes cinétiques.
+能量武器伤害描述		3	Augmente les dégâts infligés par toutes les armes énergétiques.
+爆炸武器伤害描述		3	Augmente les dégâts infligés par toutes les armes explosives.
+战斗无人机伤害描述		3	Augmente les dégâts infligés par les drones de combat.
+战斗无人机攻击速度描述		3	Augmente la vitesse d'attaque des drones de combat.
+战斗无人机引擎描述		1	Augmente la vitesse des chasseurs.
+战斗无人机耐久描述		3	Augmente la durabilité des drones de combat.
+地面编队扩容描述1		3	Augmente le nombre de flottes pour que Icarus puisse opérer plus d'escadrons au sol.
+地面编队扩容描述2		3	Étend la capacité des flottes pour que les escadrons au sol d'Icarus et de chaque base d'analyse de champ de bataille puissent accueillir plus de drones de combat.
+太空编队扩容描述1		3	Augmente le nombre de flottes pour que Icarus puisse contrôler plus de flottes spatiales.
+太空编队扩容描述2		3	Étend la capacité des flottes pour que chaque flotte spatiale d'Icarus puisse accueillir plus de vaisseaux de guerre.
+全局耐久度提升描述1		0	Ajoute une structure améliorée à chaque unité, la durabilité d'Icarus, des bâtiments et des drones de combat augmentera.
+行星护盾描述		3	Améliore l'efficacité énergétique du champ de force planétaire.\r\nInitialement, chaque point de dégât résisté consomme 400 kJ d'énergie.
+干扰塔效果描述		1	Augmente les dégâts des armes EM.
+电磁学结果		3	Vous avez débloqué un nouveau type de machine d'extraction automatique. Elle effectue automatiquement l'extraction de minerai pour vous. Sa capacité est limitée, vous voudrez peut-être livrer automatiquement les minerais aux Fours.
+电磁矩阵结果		3	Vous avez débloqué le Laboratoire de Matrices ! Aussi appelé Connecteur du Cerveau Central, il peut être utilisé pour débloquer de nouvelles technologies en téléchargeant des matrices.
+高效电浆控制结果		3	Vous maîtrisez la technologie de contrôle du plasma. Vous pouvez maintenant construire une Tour d'Énergie Sans Fil pour transmettre l'électricité à distance et charger le Mecha. La prochaine étape pourrait consister à utiliser cette technologie comme base pour la recherche sur l'extraction et la raffinerie de pétrole brut.
+等离子萃取精炼结果		3	Vous pouvez maintenant extraire du pétrole brut, qui peut non seulement servir de source d'énergie, mais aussi être raffiné en divers produits chimiques.
+X射线裂解结果		3	Vous maîtrisez la technologie de fissuration des rayons X. Utilisez-la pour transformer le pétrole raffiné en hydrogène et obtenir du graphite énergétique.
+重整精炼结果		3	Vous maîtrisez la technologie de raffinage reformé. Utilisez-la pour produire plus de pétrole raffiné en vue de la fabrication de produits chimiques de haut niveau.
+能量矩阵结果		3	Vous avez débloqué la Matrice d'Énergie, une matrice puissante qui fait partie des cinq codes sources pour que le Cerveau Central maintienne la simulation de Homeland, mais aussi la clé d'accès à davantage de technologies.
+氢燃料棒结果		3	Vous avez obtenu une tige de carburant à haute énergie. Insérez-la dans la chambre de carburant du Mecha pour augmenter l'efficacité et accélérer la récupération d'énergie.
+推进器结果		3	Vous avez débloqué le Propulseur. Utilisez-le comme moteur de Drone Logistique pour transporter des cargaisons à travers la planète.
+加力推进器结果		3	Vous avez débloqué le Propulseur Amélioré. Utilisez-le comme moteur de Vaisseau Logistique pour permettre le transport interstellaire de cargaisons.
+流体储存封装结果		3	Vous avez débloqué la technologie d'Encapsulation des Fluides. Utilisez-la pour acheminer des fluides via des bandes transporteuses et stocker des fluides excédentaires dans des réservoirs de grande capacité.
+基础化工结果		3	Vous avez maîtrisé la technologie de Génie Chimique de Base. Établissez des Usines Chimiques pour produire davantage de produits chimiques.
+高分子化工结果		3	Vous avez débloqué la technologie de Génie des Polymères. Cela vous permet d'utiliser les Usines Chimiques pour produire du Cristal Organique. Bien que l'efficacité de la chambre de carburant soit réduite, le Mecha peut toujours utiliser le Cristal Organique comme source de carburant.
+高强度晶体结果		3	Vous avez appris à préparer un cristal de haute densité. Le Cristal de Titane, un type spécial de cristal d'atomes de titane, peut être obtenu en modifiant la structure de la grille des atomes de titane avec du Cristal Organique.
+结构矩阵结果		3	Vous avez débloqué la Matrice de Structure, un type de matrice qui fait partie des cinq codes sources pour maintenir la simulation du Cerveau Central. En téléchargeant des Matrices de Structure dans le Cerveau Central, vous obtiendrez des informations sur les structures matérielles.
+卡西米尔晶体结果		3	Vous avez débloqué le Cristal de Casimir. Le Cristal de Réseau, un minerai rare, facilite la préparation du Cristal de Casimir.
+卡西米尔晶体结果		3	Vous avez débloqué le Cristal Casimir. Le Cristal Liquide, un minerai rare, facilite la préparation du Cristal Casimir.
+高强度玻璃结果		3	Vous avez débloqué le Verre de Titane, un type de verre à haute résistance fabriqué à partir de verre fondu et d'une proportion fixe d'additif en titane. Le Verre de Titane peut être utilisé dans un environnement de réaction relativement intense.
+应用型超导体结果		3	Vous avez obtenu le graphène, un nouveau supraconducteur à l'échelle nanométrique avec une large gamme d'applications.
+高强度材料结果		3	Vous avez obtenu le Nanotube de Carbone, un matériau d'une résistance extraordinairement élevée et d'une grande résistance à la déformation, plus dur que les diamants. La préparation de nanotubes de carbone peut être grandement facilitée par le Cristal de Stalagmite, un minerai rare que l'on peut trouver sur les planètes marines.
+粒子可控技术结果		3	Vous avez maîtrisé la technologie de Manipulation des Particules. Utilisez-la pour imposer un schéma spécifique au mouvement des particules.
+重氢分馏结果		3	Vous avez débloqué la technologie de Fractionnement du Deutérium. Établissez un Fractionateur pour fractionner le deutérium à partir de l'hydrogène liquide. Bien que l'efficacité de la séparation soit limitée, la production de deutérium marque l'approche d'une ère de l'énergie nucléaire.
+波函数干扰结果		3	Vous avez maîtrisé la technologie d'Interférence des Fonctions d'Onde. Utilisez-la pour interférer avec les fonctions d'onde des particules lors d'un saut quantique et générer l'effondrement quantique que vous désirez.
+微型粒子对撞机结果		3	Vous avez débloqué le Petit Collisionneur de Particules. Utilisez-le pour produire du deutérium et de l'antimatière de manière efficace, bien qu'il nécessite une quantité considérable d'énergie.
+奇异物质结果		3	Vous avez obtenu de la Matière Étrange. Elle peut déformer l'espace qui l'entoure, ce qui répond aux exigences d'énergie négative des propulseurs à distorsion.
+人造恒星结果		3	Vous avez débloqué le Soleil Artificiel. Utilisez cette installation de production d'énergie pour transférer efficacement l'énorme énergie des Barres de Combustible à Antimatière au Réseau d'Énergie de manière stable et gérable.
+可控湮灭反应结果		3	Vous avez maîtrisé la technologie de contrôle des réactions d'annihilation et d'obtention d'une production d'énergie stable. Utilisez-la pour produire des Barres de Combustible à Antimatière.
+增产剂 Mk.I结果		3	Vous avez débloqué le Proliférateur Mk.I. Le Proliférateur Mk.I peut être appliqué sur les cargaisons. Ce revêtement entraînera une production supplémentaires ou un effet d'accélération de la production lorsque la cargaison revêtue est utilisée comme matière première pour la fabrication de produits de niveau supérieur.
+增产剂 Mk.II结果		3	Vous avez débloqué le Proliférateur Mk.II. L'utilisation du Proliférateur Mk.II pour revêtir les cargaisons peut entraîner un effet d'accélération de la production considérablement accru ou une quantité plus importante de produits supplémentaires lorsque la cargaison revêtue est utilisée comme matière première pour la fabrication de produits de niveau supérieur.
+增产剂 Mk.III结果		3	Vous avez débloqué le Proliférateur Mk.III. L'utilisation du Proliférateur Mk.III pour revêtir les cargaisons avant de les utiliser comme matière première pour la fabrication de produits de niveau supérieur permettra d'augmenter encore le rendement en produits supplémentaires ou l'effet d'accélération de la production. Cela montre l'importance de garantir un approvisionnement suffisant en matières premières et d'éviter le débordement des cargaisons.
+基础制造工艺结果		3	Vous avez débloqué la Machine d'Assemblage Mk.I. Utilisez-la pour traiter les lingots de fer, les lingots de cuivre et d'autres matières premières en produits avancés. Obtenez une Machine d'Assemblage plus rapide en débloquant des technologies.
+高速制造工艺结果		3	Vous avez débloqué la Machine d'Assemblage Mk.II. Utilisez-la pour augmenter la vitesse de traitement des matières premières et augmenter la vitesse de réplication de 50 %.
+量子打印技术结果		3	Vous avez débloqué la Machine d'Assemblage Mk.III. Utilisez-la pour augmenter la vitesse de fabrication en exploitant sa technologie de Quantum Printing intégrée pour manipuler la structure des particules à un niveau plus microscopique. Elle augmente également la vitesse de réplication de 50 %.
+处理器结果		3	Vous avez débloqué le Processeur. Utilisez ce circuit intégré à grande échelle pour gérer des opérations de données plus complexes.
+量子芯片结果		3	Vous avez débloqué la Puce Quantique. Avec une puissance de calcul plus puissante et une vitesse de calcul ultra-rapide, les puces quantiques peuvent identifier intelligemment les erreurs dans le saut quantique et déployer une intervention inverse prompte.
+半导体材料结果		3	Vous avez débloqué le Composant Microcristallin. Utilisez le semi-conducteur pour fabriquer des circuits intégrés plus complexes.
+信息矩阵结果		3	Vous avez débloqué la Matrice d'Information, une matrice qui sert de l'une des cinq codes sources pour maintenir la simulation du Cerveau Central. Téléchargez les Matrices d'Information pour acquérir davantage de technologies de gestion de l'information, ce qui peut améliorer l'efficacité de production de la Base Principale.
+自动化冶金结果		3	Vous avez débloqué le Four à Arc. Construisez des Fours à Arc pour produire automatiquement des matériaux de base, tels que des lingots de fer et des lingots de cuivre. Pour parvenir à une automatisation complète, un Trieur est nécessaire pour livrer automatiquement les minerais du Tapis Roulant au Four.
+冶炼提纯结果		3	Vous avez maîtrisé une technologie de fusion plus avancée. Les Fours à Arc peuvent désormais être utilisés pour une purification de minerai plus efficace et la production de matériaux de plus haute pureté. La fusion de la pierre en silicium est une bonne option sur une planète dépourvue de veines de silicium.
+晶体冶炼结果		3	Vous avez acquis une expertise dans une technologie de fusion avancée qui peut produire rapidement des diamants et d'autres matériaux avancés en modifiant la structure atomique de substances simples.
+钢材冶炼结果		3	Vous avez maîtrisé la technologie de la fusion de l'acier. Il s'agit d'une méthode de fusion plus avancée pour transformer les lingots de fer en acier aux propriétés mécaniques supérieures.
+火力发电结果		3	La Centrale Thermique est maintenant disponible, une installation de production d'électricité qui convertit partiellement l'énergie thermique des combustibles en électricité.
+钛矿冶炼结果		3	Vous avez maîtrisé la technologie de fusion du minerai de titane. Vous pouvez désormais fondre les minerais de titane en lingots de titane légers et à haute densité.
+高强度钛合金结果		3	Vous avez obtenu l'Alliage de Titane. Ce nouveau matériau d'alliage démontre une meilleure résistance et une meilleure résistance.
+移山填海工程结果		3	Vous avez débloqué la Fondation. La Fondation est essentielle pour modifier les terrains, tels que l'extraction de sol des surfaces surélevées, la récupération de terres ou le retour de l'altitude à zéro.
+微型核聚变发电结果		3	La Mini Centrale de Fusion est maintenant disponible. Cette installation de production d'électricité convertit l'énergie générée par la combustion contrôlée du deutérium dans les Barres de Combustible de Deutéron en électricité.
+位面冶金结果		3	Vous avez débloqué le Four de Plan. Ce Four plus avancé a une efficacité deux fois supérieure à celle d'un Four à Arc ! Cependant, l'Aimant Unipolaire est nécessaire pour le produire.
+太阳能收集结果		3	Les panneaux solaires sont maintenant disponibles. Cette installation de production d'énergie convertit l'énergie du rayonnement solaire en électricité pendant la journée et stocke l'électricité excédentaire dans des accumulateurs.
+光子变频结果		3	Vous avez débloqué le Prisme Photonique. Il absorbe continuellement des photons de faible énergie pour générer un photon de haute énergie. Essayez d'utiliser du Cristal Liquide pour le produire. Le processus pourrait vous surprendre.
+太阳帆轨道系统结果		3	L'EM-Rail Ejector est maintenant disponible pour éjecter puissamment les voiles solaires vers l'Essaim Dyson. La durée de vie limitée d'une voile solaire peut être prolongée en améliorant les technologies.
+射线接收站结果		3	Le Récepteur de Rayons est désormais disponible pour recevoir des rayons de haute énergie de la Sphère de Dyson et transmettre l'énergie reçue directement au réseau électrique.
+行星电离层利用结果		3	Vous maîtrisez la technologie de l'utilisation de l'ionosphère planétaire. Consommez des Lentilles Graviton pour augmenter la puissance de sortie maximale des Récepteurs de Rayons.
+狄拉克逆变机制结果		3	Vous maîtrisez la technologie de stockage de masse-énergie. Le mode de génération de photons des Récepteurs de Rayons est maintenant disponible, et les petits collisionneurs de particules peuvent désormais inverser les photons critiques en antimatière.
+宇宙矩阵结果		3	Vous avez débloqué la Matrice de l'Univers. En tant que produit ultime de la théorie de tout, cette matrice tout-en-un explique le mystère ultime de l'univers.
+任务完成结果		3	Félicitations ! Bâtisseur de la Grande Civilisation ! Programme terminé ! (Vous pouvez continuer votre voyage après la fin)
+能量储存结果		3	Vous maîtrisez la technologie de stockage d'énergie. Vous pouvez maintenant stocker l'énergie excédentaire dans le réseau électrique vers des accumulateurs. Les accumulateurs déchargeront automatiquement l'électricité en cas de fourniture insuffisante.
+星际电力运输结果		3	Vous avez débloqué l'Échangeur d'Énergie. Un Échangeur d'Énergie permet de convertir l'énergie excédentaire du réseau électrique en accumulateurs pleins, ou de décharger l'énergie électrique des accumulateurs pleins pour alimenter les installations.
+高强度轻质结构结果		3	Vous avez débloqué le Matériau de Cadre. En raison de son excellente résistance à la gravité stellaire, cet nouvel élément léger et de haute densité est utilisé pour produire des Composants de Sphère de Dyson qui seront ensuite lancés sur la Sphère de Dyson pour former ses Nœuds et ses Cadres.
+垂直发射井结果		3	Vous avez débloqué le Silo Vertical. Construisez des Silos Verticaux pour lancer de petites fusées porteuses chargées de Composants de la Sphère de Dyson.
+戴森球应力系统结果		3	Vous avez augmenté la latitude maximale des Nœuds de la Sphère de Dyson.
+戴森球吸附速度结果		0	Vous avez augmenté la vitesse de fixation des voiles solaires et désormais la vitesse de construction d'une couche de coque Dyson est plus élevée.
+基础物流系统结果		3	Vous avez débloqué le Tapis Roulant et le Trieur. Construisez les deux installations de base pour la logistique automatisée afin de permettre la livraison automatique des minerais stockés dans les Machines d'Extraction aux Fours ou aux Dépôts.
+改良物流系统结果		3	Vous avez débloqué le Séparateur. Utilisez trois modèles différents d'un Séparateur pour diviser la cargaison en plusieurs lots pour un tri plus facile ou pour gérer la charge de travail de plusieurs Tapis Roulants.
+高效物流系统结果		3	Vous avez débloqué le Tapis Roulant avec la plus grande capacité de transport, un Trieur plus efficace et un Dépôt avec une capacité accrue.
+集装物流系统结果		3	Vous avez débloqué l'Auto-pileur et le Trieur de Pile. En installant un Auto-pileur sur un Tapis Roulant et en assurant une alimentation électrique suffisante, deux objets successifs sur le Tapis Roulant peuvent être intégrés en un seul, augmentant significativement la capacité de transport du Tapis Roulant. Après la mise à niveau du Trieur de Pile, il peut intégrer plusieurs cargaisons en une seule et les délivrer sur le Tapis Roulant.
+配送物流系统结果		3	Vous avez débloqué le Distributeur Logistique et le Robot Logistique. Construisez des Distributeurs Logistiques sur les Dépôts et déployez des Robots Logistiques pour livrer la cargaison à d'autres Distributeurs Logistiques ou à Icarus selon les conditions configurées.
+行星物流系统结果		3	Vous avez débloqué la Station Logistique Planétaire et le Drone Logistique. Ces deux installations de base du système de logistique à distance permettent aux Drones Logistiques de transporter automatiquement la cargaison entre les Stations Logistiques selon les conditions configurées.
+星际物流系统结果		3	Vous avez débloqué la Station Logistique Interstellaire. Cette gigantesque élévateur spatial permet le transport interstellaire de cargaisons entre les Stations Logistiques sur différentes planètes via des Vaisseaux Logistiques.
+气态行星开采结果		3	Vous avez débloqué le Collecteur Orbital. Vous pouvez l'utiliser pour extraire des ressources des géantes gazeuses. Une partie du carburant extrait est consommée pour son fonctionnement et son entretien.
+电磁驱动结果		3	Vous avez débloqué le Moteur Électrique. Utilisez-le pour accélérer le fonctionnement des machines et améliorer la vitesse du Mecha dans les premiers stades.
+磁悬浮技术结果		3	Vous avez débloqué la Turbine Électromagnétique. Utilisez-la pour générer une force magnétique permettant de léviter des objets.
+粒子磁力阱结果		3	Vous avez débloqué le Conteneur de Particules. Il peut être utilisé pour immobiliser des particules à des emplacements spécifiques et les amener à présenter certaines caractéristiques.
+引力波折射结果		3	Vous maîtrisez la technologie de Réfraction des Ondes Gravitationnelles. Utilisez des Lentilles Graviton pour construire le Déformateur Spatial qui permet les vols de distorsion du Mecha et des Vaisseaux Logistiques.
+引力矩阵结果		3	Vous avez débloqué la Matrice de Gravité. En tant que l'un des cinq codes sources pour maintenir la simulation du Cerveau Central, la matrice a concilié la Théorie des Champs Quantiques et la Théorie Générale de la Relativité.
+超级磁场发生器结果		3	Vous maîtrisez la technologie d'Excitation du Super Champ Magnétique. Utilisez-la pour créer des matériaux haute performance en générant une distorsion des matériaux à l'échelle atomique.
+卫星配电系统结果		3	Vous avez débloqué la Sous-station Satellite, qui étend la portée de transmission et augmente la couverture de l'alimentation électrique.
+地热开采结果		3	Vous maîtrisez la technologie d'Extraction Géothermique. Construisez des Centrales Géothermiques pour transformer l'immense énergie du magma des planètes de lave en énergie électrique pouvant être transmise au réseau électrique.
+大型采矿机结果		3	Vous avez débloqué la Machine d'Extraction Avancée avec un déploiement plus facile et une efficacité d'extraction améliorée. Utilisez des Tapis Roulants pour livrer les minerais collectés ou pour permettre la livraison automatique des minerais définis comme "Fourniture" vers les Stations Logistiques en "Demande" par des Drones Logistiques.
+高级化工结果		3	Vous avez débloqué la technologie de l'Entanglement Quantique Submicroscopique. Cela remplacera complètement l'ingénierie chimique traditionnelle. Maintenant, des usines chimiques plus avancées peuvent être établies.
+武器系统结果		2	Vous avez débloqué le Système d'Armes. Maintenant, vous pouvez défendre votre base contre les raids et survivre aux dangers de cet univers.
+燃烧单元结果		3	Vous avez débloqué les Unités Combustibles, un carburant très rentable. Des recherches supplémentaires ont découvert que cela peut être utilisé pour fabriquer des obus.
+爆破单元结果		3	Vous avez débloqué les Unités Explosives. Cet explosif efficace et stable peut être utilisé pour fabriquer toutes sortes d'armes explosives.
+晶石爆破单元结果		3	Vous avez débloqué les Unités Explosives en Cristal. Les éclats de Cristal Casimir peuvent infliger plus de dégâts et sont une matière première utilisée pour fabriquer des Ensembles d'Obus en Cristal.
+动力引擎结果		3	Vous avez débloqué le Moteur. Ce moteur simple peut fournir une sortie stable de puissance pour l'assemblage de tous types d'aéronefs.
+导弹防御塔结果		3	Vous avez débloqué les Tourelles de Missiles. Ces tourelles peuvent frapper avec précision les cibles terrestres et spatiales et offrent une protection tout autour.
+聚爆加农炮结果		3	Vous avez débloqué le Canon d'Impulsion. Il peut infliger des dégâts à des ennemis sur une large plage, mais il ne peut pas être utilisé pour attaquer des ennemis à proximité.
+信号塔结果		3	Vous avez débloqué les Tours de Signal. Elles peuvent affecter le comportement de la Brume Sombre, enrichir vos tactiques et étendre la portée d'attaque des Tourelles de Missiles.
+行星防御系统结果		3	Vous avez débloqué le Système de Défense Planétaire. Vous pouvez construire un bouclier couvrant toute la planète, mais cela consommera une quantité massive d'énergie. Heureusement, ce bouclier signifie que les ennemis venant de l'espace lointain ne seront plus comme l'Épée de Damoclès au-dessus de votre tête.
+干扰塔结果		1	Vous avez débloqué la Tour de Brouillage, offrant ainsi plus de choix tactiques.
+磁化电浆炮结果		3	Vous avez obtenu la Tourelle à Plasma. Elle peut émettre des faisceaux de plasma à grande vitesse et est extrêmement pénétrante et destructrice. De telles tourelles sont spécialisées dans la frappe d'ennemis spatiaux et peuvent infliger de grands dégâts.
+钛化弹箱结果		3	Vous avez débloqué la Boîte de Munitions en Titane. Il s'agit d'un type de Boîte de Munitions Magnum très pénétrante.
+超合金弹箱结果		3	Vous avez débloqué la Boîte de Munitions en Superalloy, le type de munitions Magnum le plus pénétrant. Même si l'armure d'un ennemi est difficile à pénétrer, ces munitions ne vous feront pas défaut.
+高爆炮弹组结果		3	Vous avez débloqué l'Ensemble de Coques à Haute Explosivité. Cette formule de coque optimisée peut infliger des dégâts explosifs plus élevés.
+超音速导弹组结果		3	Vous avez débloqué l'Ensemble de Missiles Supersoniques. Ces missiles volent plus rapidement et sont plus destructeurs que la plupart des autres.
+晶石炮弹组结果		3	Vous avez débloqué l'Ensemble de Coques en Cristal. Il a un effet de fragmentation plus intense qui peut infliger plus de dégâts.
+引力导弹组结果		3	Vous avez débloqué l'Ensemble de Missiles à Gravité. La pression gravitationnelle négative de la Matière Étrange le fera continuer à s'accélérer.
+反物质胶囊结果		3	Vous avez débloqué la Capsule d'Antimatière. La majorité des ennemis seront immédiatement détruits par sa réaction d'annihilation, ce qui en fait l'arme énergétique ultime.
+地面战斗机-A型结果		3	Vous avez débloqué le Drone de Précision. Amélioré par le prototype, il a la plus longue portée d'attaque de tous les chasseurs.
+地面战斗机-E型结果		3	Vous avez débloqué le Prototype. Il garantit la sécurité d'Icarus lors de ses attaques.
+地面战斗机-F型结果		3	Vous avez débloqué le Drone d'Attaque. Modifié à partir du prototype, il dispose d'un système d'armes plus puissant capable d'attaquer les ennemis en combat rapproché.
+太空战斗机-A型结果		3	Vous avez débloqué le Corvette. Il s'agit d'un petit vaisseau spatial. Lorsque le champ de bataille passe de la terre à l'espace, votre force spatiale jouera un rôle vital.
+太空战斗机-F型结果		3	Vous avez débloqué le Destroyer. Il s'agit d'un vaisseau de guerre de taille moyenne. Il est puissant et solide, et il est avantageux de l'avoir dans les batailles spatiales.
+电磁胶囊II结果		0	Vous avez débloqué la Capsule de Suppression. Elle induit un effet de ralentissement plus puissant par rapport à la Capsule de Brouillage.
+电磁胶囊III结果	?	0	电磁胶囊III结果
+战场分析基站结果		3	Vous avez débloqué la Base d'Analyse de Champ de Bataille. Équipée de 12 Drones de Construction, elle peut construire et réparer automatiquement. Elle peut également déployer des Drones de Combat à la base et accomplir des missions de défense.
+数字模拟计算结果		3	Vous avez débloqué la Calcul Analogique Numérique. Vous pouvez maintenant construire un Laboratoire d'Auto-Évolution, qui est trois fois plus rapide que le Laboratoire Matriciel en termes de vitesse de recherche et de production matricielle.
+物质重组技术结果		3	Vous avez obtenu la technologie de Re-combinaison de la Matière. Cela permet de recomposer la matière à la taille des particules. En combinaison avec la technologie d'Impression Quantique, vous pourrez construire des assembleurs de recomposition plus rapides.
+负熵递归结果		3	Vous avez révélé le mystère de la récursion de la négentropie. Après que de l'énergie ait été continuellement ajoutée, la négentropie générée par un Four peut être efficacement purifiée, rendant ainsi la fusion plus efficace.
+金色燃料棒结果		1	Vous maîtrisez la technologie ultime d'annihilation contrôlable et pouvez désormais fabriquer d'étranges barres de combustible d'annihilation.
+机甲核心结果		3	Vous avez augmenté la durabilité, la portée d'attaque au laser, les dégâts des armes laser et la capacité énergétique du Mecha.
+机甲核心结果2		3	Vous avez considérablement amélioré la durabilité d'Icarus, les dégâts infligés par les armes laser et la capacité maximale d'énergie du noyau.
+机械骨骼结果		3	Vitesse de déplacement augmentée.
+机舱容量结果		3	Capacité d'inventaire augmentée.
+通讯控制结果1		3	Le nombre de Drones de Construction pouvant être contrôlés simultanément a augmenté.
+通讯控制结果2		3	Le nombre de Drones de Construction pouvant être contrôlés simultanément a augmenté.
+通讯控制结果3		3	Le nombre maximum de tâches de construction qu'un seul Drone de Construction peut exécuter en même temps a été augmenté.
+通讯控制结果4		3	Le nombre de Drones de Construction pouvant être contrôlés simultanément a augmenté.
+通讯控制结果5		3	Le nombre de Drones de Construction pouvant être contrôlés simultanément a augmenté.
+通讯控制结果6		3	Le nombre maximum de tâches de construction qu'un seul Drone de Construction peut exécuter en même temps a été augmenté.
+通讯控制结果7		3	Le nombre de Drones de Construction pouvant être contrôlés simultanément a augmenté.
+自动重建结果		3	Marquer et reconstruire les cibles est maintenant plus rapide.
+自动重建结果6		3	Vous avez débloqué le niveau le plus élevé de Marquage de Reconstruction Automatique. Vous pouvez maintenant marquer instantanément les bâtiments nécessitant une reconstruction dans le rayon de marquage.
+批量建造结果		3	La création de plans est maintenant disponible.\r\nAppuyez sur [CTRL + C] pour dupliquer une ligne de production et la sauvegarder comme plan.\r\nAppuyez sur [CTRL + V] pour charger un plan pour une construction en série.\r\n(Les plans peuvent être utilisés sur une autre planète, un système planétaire ou un amas)
+批量建造结果2		3	Des plans plus grands sont disponibles.
+批量建造结果5		3	La limite de quantité d'installations est maintenant supprimée pour la construction basée sur un plan.
+解锁能量护盾结果		3	Vous avez débloqué le Bouclier d'Énergie. Il peut résister à tous les dégâts infligés par les ennemis et protéger toutes les installations situées dans son rayon. Cependant, de l'Énergie de Base est nécessaire pour le charger. Avec un carburant de niveau supérieur, la charge sera plus rapide.
+能量护盾结果		3	Le rayon de base et la capacité maximale du Bouclier d'Énergie ont augmenté.
+能量护盾结果3		0	Vous avez débloqué l'Explosion du Bouclier Énergétique. Maintenant, le Bouclier Énergétique ne sert pas seulement à la défense, mais aussi à l'attaque. Cela offre à Icarus des options tactiques plus diversifiées. Le rayon de base et la capacité maximale du Bouclier Énergétique sont augmentés.
+能量护盾结果7		3	La capacité maximale du Bouclier d'Énergie a augmenté.
+能量回路结果		3	La production d'énergie de votre Mecha a augmenté. La récupération d'énergie du Mecha est maintenant plus rapide s'il y a du carburant dans sa chambre de carburant.
+无人机引擎结果		3	La vitesse des Drones de Construction a augmenté.
+驱动引擎结果1		3	Le mode vol est activé. La vitesse du Mecha augmente de <color="#FD965ECC">150%</color> en mode vol. Appuyez deux fois sur <color="#FD965ECC">ESPACE</color> pour décoller.
+驱动引擎结果2		3	Le mode croisière est activé. Appuyez deux fois sur <color="#FD965ECC">ESPACE</color> pour décoller. Maintenez la <color="#FD965ECC">touche de déplacement vers l'avant</color> et <color="#FD965ECC">ESPACE</color> en mode vol pour activer le mode croisière à une certaine altitude.
+驱动引擎结果3		3	La vitesse de croisière du Mecha dans l'espace a augmenté.
+驱动引擎结果4		3	Le vol en distorsion est activé. Appuyez sur <color="#FD965ECC">CAPSLOCK</color> pour activer le vol en distorsion. L'activation du vol en distorsion consommera 1x <color="#FD965ECC">Space Warper</color>.
+驱动引擎结果5		3	La vitesse de vol en distorsion du Mecha a augmenté.
+太阳帆寿命结果		3	La durée de vie et la durée de fonctionnement des Voiles Solaires sont prolongées.
+射线传输效率结果		3	La dissipation de la transmission des rayons solaires est réduite et l'efficacité de la transmission est accrue.
+分拣器货物叠加结果		3	Le nombre de cargaisons que le Trieur MK.III transporte à chaque fois a augmenté.
+分拣器货物叠加结果2		0	Désormais, un Trieur Mk.III délivre directement des cargaisons empilées.
+集装分拣器货物叠加结果		0	La quantité maximale de cargaisons que le Trieur de Pile peut empiler a augmenté, maintenant il peut délivrer 2 cargaisons empilées.
+集装分拣器货物叠加结果2		0	La quantité de cargaisons que le Trieur de Pile peut ramasser a augmenté, maintenant il peut ramasser 3 cargaisons à chaque cycle.
+集装分拣器货物叠加结果3		0	La quantité maximale de cargaisons que le Trieur de Pile peut empiler a augmenté, maintenant il peut délivrer 3 cargaisons empilées.
+集装分拣器货物叠加结果4		0	La quantité de cargaisons que le Trieur de Pile peut ramasser a augmenté, maintenant il peut ramasser 4 cargaisons à chaque cycle.
+集装分拣器货物叠加结果5		0	La quantité maximale de cargaisons que le Trieur de Pile peut empiler a augmenté, maintenant il peut délivrer 4 cargaisons empilées.
+集装分拣器货物叠加结果6		0	Désormais, un Trieur de Pile peut simultanément charger et décharger. Cela maximise la capacité de transport du Trieur de Pile.
+配送范围结果		3	La couverture de livraison du Distributeur Logistique a augmenté.
+运输船引擎结果1		3	La vitesse des Drones Logistiques et des Robots Logistiques a augmenté.
+运输船引擎结果2		3	La vitesse des Drones Logistiques et des Robots Logistiques a augmenté.
+运输船引擎结果3		3	La vitesse des Vaisseaux Logistiques, des Drones Logistiques et des Robots Logistiques a augmenté.
+运输船引擎结果4		3	Les Vaisseaux Logistiques peuvent maintenant activer le vol en distorsion en consommant un <color="#FD965ECC">Space Warper</color>.\r\nLa vitesse des Robots Logistiques a augmenté.
+运输船引擎结果5		3	La vitesse des Vaisseaux Logistiques, des Drones Logistiques et des Robots Logistiques a augmenté.
+运输船引擎结果6		3	La vitesse des Vaisseaux Logistiques, des Drones Logistiques et des Robots Logistiques a augmenté.
+运输船引擎结果7		3	La vitesse des Vaisseaux Logistiques, des Drones Logistiques et des Robots Logistiques a augmenté.
+运输机舱扩容结果1		3	La capacité de livraison des Drones Logistiques et des Robots Logistiques a augmenté.
+运输机舱扩容结果2		3	La capacité de livraison des Drones Logistiques et des Robots Logistiques a augmenté.
+运输机舱扩容结果3		3	La capacité de livraison des Vaisseaux Logistiques, des Drones Logistiques et des Robots Logistiques a augmenté.
+运输机舱扩容结果4		3	La capacité de livraison des Vaisseaux Logistiques, des Drones Logistiques et des Robots Logistiques a augmenté.
+运输机舱扩容结果5		3	La capacité de livraison des Vaisseaux Logistiques, des Drones Logistiques et des Robots Logistiques a augmenté.
+运输机舱扩容结果6		3	La capacité de livraison des Vaisseaux Logistiques, des Drones Logistiques et des Robots Logistiques a augmenté.\r\nLa capacité de stockage des Stations Logistiques Planétaires et Interstellaires a augmenté.
+运输机舱扩容结果7		3	La capacité de livraison des Vaisseaux Logistiques et des Drones logistiques a augmenté.
+矿物利用结果		3	La perte de minerai lors des opérations minières est réduite, et l'extraction est plus rapide.
+垂直建造结果		3	Le nombre de niveaux pouvant être construits verticalement pour les Entrepôts, les Réservoirs de Stockage et les Laboratoires Matriciels a augmenté.
+研究速度结果		3	La vitesse de recherche des Laboratoires Matriciels a augmenté.
+宇宙探索结果1		3	Vous pouvez désormais visualiser la distribution des réserves de minerai sur la planète. Tous les minerais sur cette planète peuvent être localisés plus facilement maintenant.
+宇宙探索结果2		3	Vous pouvez désormais visualiser la distribution des réserves de minerai dans le système planétaire. Il sera maintenant plus facile de planifier différentes lignes de production.
+宇宙探索结果3		3	Vous pouvez désormais visualiser la distribution des réserves de minerai dans les systèmes planétaires dans un rayon de 6 années-lumière. Vous pouvez exploiter des ressources dans n'importe quel système planétaire situé dans un rayon de 6 années-lumière.
+宇宙探索结果4		3	Vous pouvez désormais consulter les détails des minerais rares et de toutes les réserves de minerai dans tous les systèmes planétaires. Un empire industriel intergalactique est en train de prendre forme.
+运输站集装物流结果1		3	Le nombre d'intégrations des cargaisons sortantes est configurable dans l'onglet "Configuration" de la Station Logistique Planétaire et de la Station Logistique Interstellaire. Si vous sélectionnez "Jusqu'à la limite technologique", le nombre d'intégrations des cargaisons sortantes sera automatiquement configuré en fonction de la limite maximale autorisée par les technologies actuellement déverrouillées.
+运输站集装物流结果2		3	La capacité d'intégration de la cargaison des Stations Logistiques Planétaires et Interstellaires a augmenté. Le nombre d'intégrations de la cargaison sortante est désormais configurable dans l'onglet "Configuration" d'une Station Logistique.
+动能武器伤害结果		3	Les dégâts infligés par toutes les armes cinétiques ont augmenté.
+能量武器伤害结果		3	Les dégâts infligés par toutes les armes énergétiques ont augmenté.
+爆炸武器伤害结果		3	Les dégâts infligés par toutes les armes explosives ont augmenté.
+战斗无人机伤害结果		3	Les dégâts infligés par tous les Drones de Combat ont augmenté.
+战斗无人机攻击速度结果		1	La vitesse d'attaque des Chasseurs a augmenté.
+战斗无人机引擎结果		1	La vitesse des Chasseurs a augmenté.
+战斗无人机耐久结果		3	L'armure des Drones de Combat a été améliorée.
+地面编队扩容结果1		3	Icarus peut contrôler plus d'Escadrons au Sol.
+地面编队扩容结果2		3	Les Escadrons au Sol d'Icarus et de la Base d'Analyse de Combat peuvent accueillir plus de Drones de Combat.
+太空编队扩容结果1		3	Icarus peut contrôler plus de Flottes Spatiales.
+太空编队扩容结果2		3	Les Flottes Spatiales d'Icarus peuvent accueillir plus de Vaisseaux de Guerre.
+全局耐久度提升结果1		0	La durabilité des Mechas, des bâtiments et des drones de combat a augmenté et ils peuvent subir plus de dégâts.
+行星护盾结果		3	L'efficacité énergétique du bouclier planétaire a été améliorée. Il consomme également moins d'énergie à chaque fois qu'il résiste à 1 point de dégât.
+干扰塔效果结果		1	La puissance des armes à ondes électromagnétiques a augmenté.
+中枢核心		3	Cœur Central
+日蚀要塞装配港		3	Port de l'Enclave de l'Éclipse
+巨鲸装配港		3	Port du Rorqual
+枪骑装配港		3	Port du Lancier
+光能接收站		3	Station de Réception de Photons
+等离子发生塔		3	Tour de Génération de Plasma
+相位激光塔		3	Tour à Laser de Phase
+种子节点		3	Nœud de Graine
+水平连接桥		3	Pont Horizontal
+纵向通道		3	Canal Vertical
+日蚀要塞		3	Forteresse de l'Éclipse
+巨鲸		3	Rorqual
+枪骑		3	Lancier
+高速拦截机		3	Intercepteur à Haute Vitesse
+小型炸弹机		3	Bombardier Léger
+中继站		3	Station de Relais
+工蚁		3	Fourmi
+重型运输船		3	Barge Lourde
+火种		3	Graine
+行星基地		3	Base Planétaire
+强袭者营地		3	Camp des Attaquants
+游骑兵营地		1	Camp des Éclaireurs
+守卫者营地		3	Camp des Gardiens
+等离子哨戒塔		3	Tour de Guet au Plasma
+高能激光塔		3	Tour Laser à Haute Énergie
+等离子护盾		3	Structure Inconnue
+导轨		3	Voie Guidée
+强袭者		3	Attaquant
+游骑兵		3	Éclaireur
+守卫者		3	Gardien
+运输车		3	Camion
+地核钻井		3	Foreuse de Noyau
+E中枢核心		3	Le summum de l'ingénierie mécanique de l'ère précédente. Bien que sa gloire passée ait diminué en raison des radiations cosmiques, sa structure mécanique interne reste intacte et fonctionne inlassablement pour surveiller et gérer l'expansion de toute la Ruche. Le Cerveau Central fabrique des Stations Relais qui construisent des Bases Planétaires sur chaque planète. Le Cerveau Central consommera d'énormes quantités d'énergie et de matière pour créer la Graine pendant la phase de croissance tardive de la Ruche. Il enverra également la Graine vers de nouveaux systèmes planétaires pour qu'elle se développe en de nouvelles Ruches de la Brume Sombre.
+E日蚀要塞装配港		3	Installations de production de la Ruche utilisées pour construire la Forteresse de l'Éclipse, l'unité ultime qui fait craindre à de nombreuses personnes. Le Port de la Forteresse de l'Éclipse est énorme, ce qui en fait un point de repère pour la Brume Sombre. Le Port de la Forteresse de l'Éclipse consomme d'énormes quantités d'énergie et de matière. À moins que la Ruche n'atteigne la phase de croissance tardive, cette structure ne sera pas construite.
+E巨鲸装配港		3	Installations de production de la Ruche utilisées pour produire le Rorqual, une unité spatiale. La recherche sur le modèle génétique de la Brume Sombre révèle que le Port du Rorqual est généralement construit pendant la phase de croissance précoce de la Ruche. Comparés aux féroces Lanciers, les Rorquals qui peuvent se déplacer librement dans la Ruche peuvent être plus adaptés pour protéger la Ruche pendant sa phase précoce.
+E枪骑装配港		3	Installations de production de la Ruche. Grâce à l'absence de gravité dans l'espace, le Port peut fabriquer des Lanciers à n'importe quel angle et les déployer autour de la Ruche. Le Port du Lancier a une grande efficacité de production. Des matrices de Lanciers entourant la Ruche sont couramment observées à proximité.
+E光能接收站		3	Avec un concept similaire à la sphère de Dyson, il s'agit de la principale manière pour la ruche d'obtenir de l'énergie. Comme sa conception sous-jacente est cohérente avec la sphère de Dyson, nous ne pouvons pas les empêcher de prélever de l'énergie de la sphère de Dyson.
+E等离子发生塔		3	La Tour de Génération de Plasma peut utiliser des Générateurs disposés en tétraèdre régulier pour stimuler facilement la matière et la faire atteindre un état supérieur. Elle peut également produire directement du plasma à haute température et densité au centre. Ce plasma a une capacité de libération d'énergie extrêmement élevée et émet une chaleur puissante. Il peut infliger des dégâts dévastateurs aux cibles.
+E相位激光塔		3	Il est équipé de plusieurs Excitateurs de Phase. Ces excitateurs peuvent réguler avec précision le laser, améliorer les phases et libérer des lasers bien focalisés avec une densité d'énergie élevée.
+E种子节点		3	Point de départ et pierre angulaire de l'expansion de la Ruche. Ces nœuds contiennent de nombreuses interfaces mécaniques étalonnées, ce qui rend possible la création de structures aux fonctions variées. Les cellules souches peuvent devenir des cellules spécialisées. De même, les Nœuds de Graine peuvent construire des structures en demande pour satisfaire les besoins divers de la Ruche.
+E水平连接桥		3	En tant que squelette et vaisseaux sanguins de la Ruche spatiale, le Pont joue un rôle vital. Le Pont Horizontal se développe entre les terminaux et relie la Ruche en une entité organique. Les Fourmis font la navette sur le pont, transportant de la matière et de l'énergie sans relâche et envoyant des informations et des ressources à tous les coins de la Ruche.
+E纵向通道		3	Le Canal est un autre hub important de la Ruche spatiale. Bien qu'il soit plus court, son rôle ne doit pas être négligé. En tant que lien entre les couches supérieure et inférieure de la Ruche, la matière et l'énergie sont transportées verticalement via le Canal Vertical. Ce canal assure le flux fluide des ressources de la Ruche et la transmission efficace de l'information.
+E日蚀要塞		3	Selon les avertissements envoyés par le groupe le plus gravement érodé par la Brume Sombre, nous avons reçu un message du genre : "Une éclipse inattendue apparaît au-dessus de l'étoile... Non, c'est une forteresse !" Heureusement, l'unité dans le groupe ne s'est pas réveillée. Prions le Cerveau Central pour que la Forteresse de l'Éclipse ne s'éveille jamais.
+E巨鲸		3	Une unité de défense qui vole inlassablement à l'intérieur de la Ruche. Jusqu'à présent, aucun Rorqual n'a jamais quitté la Ruche pour attaquer les ingénieurs.
+E枪骑		3	Comme le montrent les rapports sur la Brume Sombre reçus par COSMO, la plupart des ingénieurs ont mentionné la redoutable puissance des Lanciers. Un Lancier est une unité spatiale extrêmement agressive. Lorsqu'il attaque, il scanne d'abord ses cibles avec un laser transversal, puis il entre en orbite autour de la planète pour bombarder le sol.
+E高速拦截机	?	0	Intercepteur à haute vitesse E
+E小型炸弹机	?	0	Petit bombardier E
+E中继站		3	Le Cerveau Central envoie des Stations de Relais sur les planètes pour construire des Bases Planétaires selon les besoins. Après avoir construit une Base Planétaire, la Station de Relais continue de rester au-dessus de cette Base Planétaire pour établir une connexion entre la Base Planétaire et la Ruche. Elle enverra des vaisseaux pour transférer la production de matière de la Base vers la Ruche et renvoyer de l'énergie à la Base. Les Relais sont la dernière assurance de la Ruche. Si une Base Planétaire est détruite, son Relais essaiera de la reconstruire s'il reste de la matière et de l'énergie. Si le Cerveau Central d'une Ruche est détruit, les Relais enverront un Barge Lourd pour reconstruire le Noyau. Étant donnée l'importance des Stations de Relais, les attaquer équivaut à déclarer une guerre à grande échelle contre la Brume Sombre. Certains ingénieurs malheureux ont fini par en être les victimes, même s'ils voulaient simplement tester les Tourelles de Missiles.
+E工蚁	?	0	Aucune description de conception disponible.
+E重型运输船	?	0	Vaisseau de transport lourd E
+E火种		3	Un produit de l'expansion de la Ruche. Sa construction consomme une énorme quantité de matière et d'énergie. Une fois que la Graine a été créée, elle se rendra dans un nouveau système planétaire pour former sa propre Ruche. La Graine représente une menace irrépressible. La laisser partir signifie que la Brume Sombre se propagera et occupera tout l'univers.
+E行星基地		3	Le cerveau de la Brume Sombre au-dessus de la planète, il suit deux règles simples :\r\nPremièrement, ne jamais construire de structures inutiles ;\r\nDeuxièmement, éliminer toutes les menaces près de la base. Une Base Planétaire modifiera régulièrement son environnement proche. Si une menace est identifiée, elle donnera l'ordre à ses Camps d'accélérer la production. Une Base Planétaire creusera des puits profonds dans la planète pour exploiter la matière du noyau. Cette matière sera ensuite utilisée pour construire des structures et des unités. Cette technologie accorde un haut degré de liberté dans l'évolution de la Brume Sombre. Cette technologie a été interdite par le Comité d'Éthique Technologique de COSMO. Vous pouvez encore voir le noyau même après la destruction d'une Base Planétaire. Franchement, seuls quelques ingénieurs ont eu la chance de le voir.
+E强袭者营地		3	Installations de production de la Brume Sombre, utilisées pour produire de puissantes unités terrestres en combat rapproché comme les Raiders. Les Raiders flottent au-dessus du sol et possèdent une redoutable capacité d'attaque et de défense. Les Raiders ont été nommés d'après un ingénieur extrêmement curieux. Après leur atterrissage, il est allé à la recherche de la base terrestre mais a été raidé par un Raider nouvellement produit.
+E游骑兵营地		3	Installations de production de la Brume Sombre, utilisées pour construire des unités terrestres à longue portée comme les Rangers. Avant la variation, les Rangers avaient été le système de sécurité défensif de la base terrestre. Ils patrouillaient autour de la base pour éliminer les menaces. Après la variation, ils sont devenus plus agressifs.
+E守卫者营地		3	Installations de production de la Brume Sombre, utilisées pour construire de puissantes unités de défense terrestre comme les Gardiens. Les Gardiens offrent une forte protection contre la Brume Sombre à proximité, c'est ainsi qu'ils ont obtenu leur nom.
+E高能激光塔		3	Trois sources de pompage principales stimulent ses lasers. Pendant ce temps, trois boosters d'énergie sont équipés pour améliorer le contrôle des lasers. Cette conception optimise la sortie laser avec une énergie plus élevée tout en maintenant une grande stabilité et précision. Elle apparaît généralement à la périphérie de la Base Planétaire.
+E等离子哨戒塔		3	Les cristaux à haute énergie sont utilisés comme excitateur de plasma. Ils peuvent rapidement stimuler les plasmas pour les utiliser comme armes. Ils apparaissent généralement à l'intérieur d'une Base Planétaire pour fournir un puissant tir de suppression.
+E等离子护盾		3	Bien que ce bâtiment soit mentionné dans tous les rapports, nous ne connaissons toujours pas ses fonctions spécifiques pour le moment. Il est énorme et frappant. Peut-être qu'il relie la Base Planétaire et la Ruche. Ou peut-être qu'il est encore en développement. La recherche est toujours en cours. Espérons que son mystère sera révélé un jour.
+E导轨		3	Une installation importante de la Base Planétaire. Elle sert de canal de transport rapide de matière et d'énergie. Les Guideways utilisent la mécanique électromagnétique à grande vitesse pour relier toutes les zones de la base. Ils sont généralement linéaires et s'étendent le long des principales routes de la base pour relier les installations. Pour réaliser le transport mutuel de ressources, les Guideways ont évolué et peuvent désormais prendre en charge le transport bidirectionnel. Les camions font des allers-retours continus le long de ces rails pour transférer de la matière et de l'énergie.
+E强袭者		3	Une des unités terrestres de la Brume Sombre. Elle possède de solides capacités d'attaque et de défense. Les Raiders flottent au-dessus du sol. Ils sont lents et leur portée d'attaque est courte, mais leurs arcs électriques peuvent percer les défenses de leurs cibles et infliger de grands dégâts. En plus de leur grande capacité d'attaque, leur armure solide peut résister efficacement aux attaques. Cela signifie qu'ils peuvent survivre longtemps sur le champ de bataille pendant qu'ils se battent.
+E游骑兵		3	Une des unités terrestres de la Brume Sombre. Ils ont une grande vitesse et des capacités d'attaque à longue portée. Contrairement aux autres unités, les Rangers volent librement dans l'air grâce à leur structure mécanique légère et leur système de propulsion avancé. De plus, ils se déplacent rapidement sur le champ de bataille pour approcher leurs cibles. En même temps, leurs armes à longue portée de haute précision peuvent atteindre les ennemis lointains.
+E守卫者		3	Une des unités terrestres de la Brume Sombre, ils ont une capacité de défense exceptionnelle. La mission des Gardiens est de protéger les autres unités contre les attaques. Leurs capteurs avancés et leurs systèmes informatiques peuvent identifier avec précision la trajectoire hostile et la localisation de la cible. Dès que les Gardiens découvrent que la Brume Sombre est sur le point d'être attaqué, ils utiliseront rapidement leur armure pour résister aux dégâts et protéger les unités à proximité.
+E运输车	?	0	Transporteur E
+E地核钻井		3	Un puits foré par une Base Planétaire. Il a atteint le noyau de la planète, vous pouvez donc voir la lave en ébullition. Le puits peut être enseveli sous d'énormes quantités de tas de sable. Peut-être que COSMO ne verrait pas d'inconvénient si nous utilisions simplement la chaleur de la lave.
+指引条目1		0	Opérations de base  
+指引条目2		0	Déplacer  
+指引条目3		0	Rotation de la caméra  
+指引条目4		0	Recycler la capsule spatiale  
+指引条目5		0	Rassembler  
+指引条目6		0	Rassembler 50 bûches  
+指引条目7		0	Rassembler 10 minerais de fer  
+指引条目8		0	Rassembler 10 minerais de cuivre  
+指引条目9		0	Remplir le carburant dans "Panneau Mecha (C)"  
+指引条目10		0	Électromagnétisme  
+指引条目11		0	Ouvrir "Arbre Technologique (T)", rechercher [Électromagnétisme]  
+指引条目12		0	Ouvrir "Réplicateur (F)"  
+指引条目13		0	Répliquer  
+指引条目14		0	Répliquer des bobines magnétiques  
+指引条目15		0	Déverrouiller [Électromagnétisme]  
+指引条目16		0	Matrice électromagnétique  
+指引条目17		0	Déverrouiller [Matrice électromagnétique]  
+指引条目18		0	Produire une matrice électromagnétique avec un "Laboratoire Matriciel"  
+指引条目19		0	Rechercher une technologie avec un "Laboratoire Matriciel"  
+指引条目20		0	Arme  
+指引条目21		0	Déverrouiller [Système d'armement]  
+指引条目22		0	Ajouter des munitions au Mecha  
+指引条目23		0	Produire une boîte de munitions Magnum  
+指引条目24		0	Produire une "Tourelle Gauss"  
+指引条目25		0	Construire une "Tourelle Gauss" et y insérer des munitions  
+指引条目26		0	Automatisation  
+指引条目27		0	Déverrouiller [Système logistique de base]  
+指引条目28		0	Utiliser des "Convoyeurs" pour transporter des marchandises  
+指引条目29		0	Utiliser des trieurs pour insérer ou extraire des marchandises dans une installation  
+指引条目30		0	Déverrouiller [Métallurgie automatique]  
+指引条目31		0	Faire fondre des minerais avec un "Four à arc"  
+指引条目32		0	Raffinage pétrolier  
+指引条目33		0	Déverrouiller [Fusion de l'acier]  
+指引条目34		0	Déverrouiller [Raffinage par extraction plasma]  
+指引条目35		0	Stocker un fluide dans un "Réservoir"  
+指引条目36		0	Plan  
+指引条目37		0	Déverrouiller [Construction massive]  
+指引条目38		0	Créer un plan  
+指引条目39		0	Utiliser un plan  
+指引条目40		0	Fondation  
+指引条目41		0	Déverrouiller [Réclamation]  
+指引条目42		0	Produire une Fondation  
+指引条目43		0	Poser une Fondation  
+指引条目44		0	De la Pierre au Silicium  
+指引条目45		0	Produire un Minerai de Silicium en fondant des Pierres  
+指引条目46		0	Produire un Silicium de Haute Pureté en fondant des Minerais de Silicium  
+指引条目47		0	Matrice d'Énergie  
+指引条目48		0	Déverrouiller [Purification de Fusion]  
+指引条目49		0	Produire un Graphite Énergétique à l'aide d'un "Four à Arc"  
+指引条目50		0	Déverrouiller [Matrice d'Énergie]  
+指引条目51		0	Produire une Matrice d'Énergie à l'aide d'un "Laboratoire de Matrice"  
+指引条目52		0	Explorer une Planète Extraterrestre  
+指引条目53		0	Déverrouiller [Exploration de l'Univers] niv.2  
+指引条目54		0	Déverrouiller [Moteur d'Entraînement] niv.2  
+指引条目55		0	Atterrir sur une nouvelle planète avec des veines de Silicium ou de Titane  
+指引条目56		0	Étendre l'Usine  
+指引条目57		0	Construire une "Machine d'Extraction" pour collecter des Minerais de Titane  
+指引条目58		0	Construire une "Machine d'Extraction" pour collecter des Minerais de Silicium  
+指引条目59		0	Construire un "Fourneau" pour produire un Lingot de Titane  
+指引条目60		0	Proliférateur  
+指引条目61		0	Déverrouiller [Proliférateur Mk.I]  
+指引条目62		0	Augmenter l'efficacité de la chaîne de production en utilisant des Proliférateurs  
+指引条目63		0	Fractionnement  
+指引条目64		0	Déverrouiller [Fractionnement de Deutérium]  
+指引条目65		0	Produire du Deutérium à l'aide d'un "Fractionneur"  
+指引条目66		0	Logistique Planétaire  
+指引条目67		0	Déverrouiller [Système de Logistique Planétaire]  
+指引条目68		0	Produire 2 "Stations Logistiques Planétaires"  
+指引条目69		0	Produire un Drone Logistique  
+指引条目70		0	Accomplir une mission de transport avec un Drone Logistique  
+指引条目71		0	Matrice de Structure  
+指引条目72		0	Déverrouiller [Matrice de Structure]  
+指引条目73		0	Produire un Cristal de Titane à l'aide d'une "Machine d'Assemblage"  
+指引条目74		0	Produire un Diamant à l'aide d'un "Fourneau"  
+指引条目75		0	Produire une Matrice de Structure à l'aide d'un "Laboratoire de Matrice"  
+指引条目76		0	Logistique Interstellaire  
+指引条目77		0	Déverrouiller [Système de Logistique Interstellaire]  
+指引条目78		0	Produire 2 "Stations Logistiques Interstellaires"  
+指引条目79		0	Produire un Vaisseau Logistique  
+指引条目80		0	Accomplir une mission de transport avec un Vaisseau Logistique  
+指引条目81		0	Essaim de Dyson  
+指引条目82		0	Déverrouiller [Système d'Orbite de Voiles Solaires]  
+指引条目83		0	Planifier une orbite pour l'Essaim de Dyson  
+指引条目84		0	Éjecter 1000 Voiles Solaires  
+指引条目85		0	Recevoir de l'énergie à l'aide d'un "Récepteur de Rayons"  
+指引条目86		0	Les Géants Gazeux  
+指引条目87		0	Déverrouiller [Exploitation des Géants Gazeux]  
+指引条目88		0	Produire un "Collecteur Orbital"  
+指引条目89		0	Construire un "Collecteur Orbital"  
+指引条目90		0	Croisière Mécanique  
+指引条目91		0	Déverrouiller [Réfraction des Ondes Gravitationnelles]  
+指引条目92		0	Produire au moins 2 Distorsionneurs Spatiaux  
+指引条目93		0	Voyager vers un nouveau système planétaire  
+指引条目94		0	Veine Rare  
+指引条目95		0	Extraire une veine rare à l'aide d'une "Machine d'Extraction"  
+指引条目96		0	Matrice d'Information  
+指引条目97		0	Déverrouiller [Matrice d'Information]  
+指引条目98		0	Produire une Matrice d'Information à l'aide d'un "Laboratoire de Matrice"  
+指引条目99		0	Structure de Dyson  
+指引条目100		0	Déverrouiller [Silo de Lancement Vertical]  
+指引条目101		0	Planifier une couche de la Coque de Dyson  
+指引条目102		0	Planifier une Structure de Dyson  
+指引条目103		0	Lancer des fusées pour construire la structure planifiée  
+指引条目104		0	Exploration de l'Univers  
+指引条目105		0	Déverrouiller [Exploration de l'Univers] niv.3  
+指引条目106		0	Vie des Voiles Solaires  
+指引条目107		0	Déverrouiller [Vie des Voiles Solaires] niv.4  
+指引条目108		0	Matrice de Gravité  
+指引条目109		0	Déverrouiller [Matrice de Gravité]  
+指引条目110		0	Produire une Matrice de Gravité à l'aide d'un "Laboratoire de Matrice"  
+指引条目111		0	Produire des Distorsionneurs Spatiaux à l'aide de la Matrice de Gravité  
+指引条目112		0	Utilisation de l'Ionosphère  
+指引条目113		0	Déverrouiller [Utilisation de l'Ionosphère Planétaire]  
+指引条目114		0	Mettre un Lentille Gravitationnelle dans un "Récepteur de Rayons"  
+指引条目115		0	Recevoir de manière continue à partir d'un "Récepteur de Rayons" jusqu'à atteindre 80%  
+指引条目116		0	Coque de Dyson  
+指引条目117		0	Déverrouiller [Système de Stress de la Coque de Dyson] niv.1  
+指引条目118		0	Étoile Artificielle  
+指引条目119		0	Configurer un "Récepteur de Rayons" pour commencer à fonctionner en mode "Génération de Photons"  
+指引条目120		0	Générer de l'énergie à l'aide d'une "Étoile Artificielle"  
+指引条目121		0	Coque Géante de Dyson  
+指引条目122		0	Capacité de génération d'une Coque de Dyson > 5 GW  
+指引条目123		0	Matrice de l'Univers  
+指引条目124		0	Déverrouiller [Matrice de l'Univers]  
+指引条目125		0	Produire une Matrice de l'Univers à l'aide d'un "Laboratoire de Matrice"  
+指引条目126		0	Usine Géante  
+指引条目127		0	Taux de production de la Matrice de l'Univers atteint 120 / min  
+指引条目128		0	Automatisation Pt.2  
+指引条目129		0	Déverrouiller [Assemblage de Base]  
+指引条目130		0	Construire une "Machine d'Assemblage Mk.I"  
+指引条目131		0	Produire n'importe quel objet à l'aide d'une "Machine d'Assemblage"  
+指引条目132		0	Construire une "Machine d'Extraction"  
+指引条目133		0	Amélioration  
+指引条目134		0	Ouvrir le "Panneau de Mise à Niveau de l'Arbre Technologique"  
+指引条目135		0	Mise à niveau [Exploration de l'Univers]  
+指引条目136		0	Améliorer le Mecha, et déverrouiller [Vol du Mecha]  
+指引条目137		0	Efficacité du Laboratoire  
+指引条目138		0	Construire un "Laboratoire de Matrice" au-dessus d'un autre  
+指引条目139		0	Planifier une Coque de Dyson  
+指引条目140		0	Éjecter des Voiles Solaires pour commencer à former une Coque  
+指引条目141		0	Dégager le Brouillard Sombre au sol  
+指引条目142		0	Déverrouiller [Drone de Précision]  
+指引条目143		0	Remplir les Drones dans une formation au sol dans le "Panneau Mecha(C)"  
+指引条目144		0	Attaquer une Base Planétaire du Brouillard Sombre et la nettoyer  
+指引条目145		0	Dégager le Brouillard Sombre dans l'espace  
+指引条目146		0	Remplir les Flottes dans une formation spatiale dans le "Panneau Mecha(C)"  
+指引条目147		0	Attaquer une Ruche Spatiale du Brouillard Sombre et détruire son Noyau Central.  
+指引条目148		0	Programme de la Coque de Dyson  
+指引条目149		0	Construire une Coque de Dyson autour d'une étoile avec une luminosité supérieure à 2.0  
+指引条目150		0	Efficacité de l'Usine  
+指引条目151		0	Le taux de production de la Matrice de l'Univers atteint 120 / min, et le taux de production de chaque installation atteint le taux de référence  
+指引条目152		0	Déverrouiller [Moteur de Propulsion] niv.4  
+指引条目153		0	Utiliser un Bouclier Planétaire pour prévenir les attaques spatiales et les atterrissages de Stations de Relais  
+指引条目154		0	Bouclier Planétaire  
+指引条目155		0	Produire une Tige de Carburant Antimatière  
+指引条目156		0	Fournir de l'énergie à la "Machine d'Extraction"  

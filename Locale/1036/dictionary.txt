@@ -1,0 +1,181 @@
+戴森球计划(字典)		5	Programme de Sphère de Dyson
+戴森球(字典)		5	Sphère de Dyson
+戴森云(字典)		5	Essaim de Dyson
+戴森壳(字典)		5	Coque de Dyson
+戴森球节点(字典)		5	Nœud de Sphère de Dyson
+戴森球框架(字典)		5	Cadre de Sphère de Dyson
+戴森球细胞(字典)		5	Cellule de Sphère de Dyson
+三级文明(字典)		5	Civilisation de Type III
+伊卡洛斯(字典)		5	Icare
+机甲(字典)		5	Mecha
+物品清单(字典)		5	Inventaire
+合成器(字典)		5	Réplicateur
+生命值(字典)		5	Durabilité
+核心电容(字典)		5	Énergie du Noyau
+移动速度(字典)		5	Vitesse de Déplacement
+步行(字典)		5	Mode de Marche
+滑行(字典)		5	Mode de Glissement
+低空飞行(字典)		5	Vol à Basse Altitude
+航行模式(字典)		5	Mode de Croisière
+曲速(字典)		5	Distorsion
+红巨星(字典)		5	Géante Rouge
+蓝巨星(字典)		5	Géante Bleue
+白矮星(字典)		5	Naine Blanche
+中子星(字典)		5	Étoile à Neutrons
+黑洞(字典)		5	Trou Noir
+卫星(字典)		5	Satellite
+天体轨道(字典)		5	Orbite Céleste
+恒星质量(字典)		5	Masse Stellaire
+光谱类型(字典)		5	Classe Spectrale
+恒星亮度(字典)		5	Luminosité Stellaire
+公转周期(字典)		5	Période de Révolution
+自转周期(字典)		5	Période de Rotation
+轨道半径(字典)		5	Rayon de l'Orbite
+轨道倾角(字典)		5	Inclinaison de l'Orbite
+地轴倾角(字典)		5	Inclinaison de l'Axe de la Planète
+升交点黄经(字典)		5	Longitude du Nœud Ascendant (NA)
+潮汐锁定(字典)		5	Verrouillage des Marées
+永昼永夜(字典)		5	Perpétuelle Journée et Nuit
+轨道共振(字典)		5	Résonance Orbitale
+横躺自转(字典)		5	Rotation Horizontale
+反向自转(字典)		5	Rotation Inverse
+多卫星(字典)		5	Satellites Multiples
+外太空(字典)		5	Espace Extra-Atmosphérique
+星区(字典)		5	Amas Stellaires
+经度(字典)		5	Longitude
+纬度(字典)		5	Latitude
+高度(字典)		5	Altitude
+光年(字典)		5	Année-lumière
+粒子(字典)		5	Particule
+光子(字典)		5	Photon
+量子(字典)		5	Quantique
+湮灭(字典)		5	Annihilation
+卡西米尔(字典)		5	Casimir
+狄拉克(字典)		5	Dirac
+气态巨星(字典)		5	Géante Gazeuse
+冰巨星(字典)		5	Géante de Glace
+地中海(字典)		5	Mariterranée
+干旱荒漠(字典)		5	Terre Brûlée
+灰烬冻土(字典)		5	Geloterra
+海洋丛林(字典)		5	Tropicana
+冰原冻土(字典)		5	Glacieon
+贫瘠荒漠(字典)		5	Desolus
+戈壁(字典)		5	Gobi
+火山灰(字典)		5	Sulfuria
+红石(字典)		5	Crimsonis
+草原(字典)		5	Prairiea
+水世界(字典)		5	Aquatica
+红土荒漠(字典)		5	Halitum
+白色海洋(字典)		5	Océan Sakura
+三色荒漠(字典)		5	Cyclonius
+红冰荒漠(字典)		5	Maroonfrost
+草原荒漠(字典)		5	Savane
+橙晶荒漠(字典)		5	Onyxtopia
+极寒荒漠(字典)		5	Icefrostia
+潘多拉荒漠(字典)		5	Pandora Swamp
+铁(字典)		5	Fer
+铜(字典)		5	Cuivre
+硅(字典)		5	Silicium
+钛(字典)		5	Titane
+石(字典)		5	Pierre
+煤(字典)		5	Charbon
+油(字典)		5	Pétrole
+氢(字典)		5	Hydrogène
+重氢(字典)		5	Deutérium
+海洋(字典)		5	Océan
+熔岩(字典)		5	Lave
+冰(字典)		5	Glace
+可燃冰(字典)		5	Glace Combustible
+金伯利矿石(字典)		5	Minerai de Kimberlite
+分形硅石(字典)		5	Silicium Fractal
+有机晶体(字典)		5	Cristal Organique
+光栅石(字典)		5	Cristal Liquide
+刺笋结晶(字典)		5	Cristal de Stalagmite
+单极磁石(字典)		5	Aimant Unipolaire
+植被(字典)		5	Végétation
+材料(字典)		5	Matériau
+组件(字典)		5	Composant
+成品(字典)		5	Produit
+物品(字典)		5	Objet
+设备(字典)		5	Équipement
+货物(字典)		5	Cargo
+公式(字典)		5	Recette
+电力储存(字典)		5	Stockage d'Énergie
+电力运输(字典)		5	Transmission d'Énergie
+电力交换(字典)		5	Échange d'Énergie
+物流运输(字典)		5	Logistique
+电力设备(字典)		3	Installation d'Énergie
+冶炼设备(字典)		3	Installation de Fusion
+化工设备(字典)		3	Installation Chimique
+精炼设备(字典)		3	Installation de Raffinage
+分馏设备(字典)		3	Installation de Fractionnement
+科研设备(字典)		3	Installation de Recherche
+采矿设备(字典)		3	Installation d'Extraction Minière
+抽水设备(字典)		3	Installation de Pompage de Liquide
+抽油设备(字典)		3	Installation d'Extraction de Pétrole
+生产设备(字典)		3	Installation de Production
+制造台(字典)		3	Assembleur
+粒子对撞机(字典)		3	Collisionneur de Particules
+能量交换器(字典)		3	Échangeur d'Énergie
+武器(字典)		5	Arme
+核能(字典)		5	Énergie Nucléaire
+质能(字典)		3	Masse-Énergie
+储存(字典)		5	Stockage
+拆除(字典)		5	Démanteler
+升级(字典)		5	Mise à Niveau
+降级(字典)		3	Rétrogradation
+燃料(字典)		5	Carburant
+光伏(字典)		5	Photovoltaïque
+离子流(字典)		5	Courant Ionique
+火力(字典)		5	Énergie Thermique
+风力(字典)		5	Énergie Éolienne
+地热(字典)		5	Énergie Géothermique
+科技树(字典)		5	Arbre Technologique
+算力(字典)		5	Puissance de Calcul
+哈希(字典)		5	Hachage
+数据量(字典)		5	Volume de Données
+距离格(字典)		5	Grille de Distance
+仓储格(字典)		5	Emplacement de Stockage
+太阳帆(字典)		5	Voile Solaire
+小型运载火箭(字典)		5	Petite Fusée de Transport
+蓝图(字典)		5	Plan
+研究(字典)		5	Recherche
+采集(字典)		5	Collecte
+弹射(字典)		5	Éjection de Voile Solaire
+发射(字典)		5	Lancement de Fusée
+分馏(字典)		5	Fractionner
+冶炼(字典)		5	Fondre
+制造(字典)		5	Produire
+组装(字典)		5	Assembler
+星图(字典)		5	Carte Stellaire
+教程(字典)		5	Tutoriel
+传送带(字典)		5	Tapis Roulant
+分拣器(字典)		5	Trieur
+四向分流器(字典)		5	Séparateur
+蓄电器(字典)		5	Accumulateur
+喷涂机(字典)		5	Pulvérisateur
+自动集装机(字典)		5	Chargeur Automatique
+储液罐(字典)		5	Réservoir de Stockage
+物流配送器(字典)		5	Distributeur Logistique
+物流运输站(字典)		5	Station Logistique Planétaire
+星际物流运输站(字典)		5	Station Logistique Interstellaire
+配送运输机(字典)		5	Robot Logistique
+物流运输机(字典)		5	Drone Logistique
+星际物流运输船(字典)		5	Vaisseau Logistique Interstellaire
+沙土(字典)		5	Tas de Terre
+成就(字典)		5	Réussite
+里程碑(字典)		5	Étape Importante
+元数据(字典)		5	Métadonnées
+电磁协议(字典)		5	Protocole Électromagnétique
+能量协议(字典)		5	Protocole Énergétique
+结构协议(字典)		5	Protocole de Structure
+信息协议(字典)		5	Protocole d'Information
+引力协议(字典)		5	Protocole Gravitationnel
+宇宙协议(字典)		5	Métavers
+电磁矩阵(字典)		5	Matrice Électromagnétique
+能量矩阵(字典)		5	Matrice Énergétique
+结构矩阵(字典)		5	Matrice de Structure
+信息矩阵(字典)		5	Matrice d'Information
+引力矩阵(字典)		5	Matrice Gravitationnelle
+宇宙矩阵(字典)		5	Matrice de l'Univers
+科学矩阵(字典)		5	Matrice Scientifique

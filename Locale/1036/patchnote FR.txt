@@ -1,0 +1,12 @@
+13/8/2025
+
+储量		3	\r\nRéserves 
+研究队列已满		3	File d'attente pleine
+空格个		5	 
+本地供应		3	Appro local
+星际供应		3	Appro à distance
+机甲燃烧室功率		2	 Puissance de Carburant W du Mecha
+列		3	  colonne(s)
+2379
+配送清单容量		3	+{0}  colonne(s) sur la Liste Logistique
+2281

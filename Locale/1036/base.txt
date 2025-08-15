@@ -4035,3 +4035,5 @@ ImageLogo2		0	UI/Textures/dsp-logo-flat-en
 AudioResPostfix		5	-en
 ResPostfix		5	-en
 CutsceneBGM0		0	Musics/df-cutscene-en
+新档其他升级信息显示		0	Nombre de batiment par Plan\r\nLimite de pente des convoyeurs\r\nNiveau d'emplillage \r\nVitesse de recherche\r\nTotal de matrices universelles envoyées
+

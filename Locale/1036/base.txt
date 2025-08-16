@@ -1412,7 +1412,7 @@ XGP标签无后缀		3	(pas de suffixe présent)
 矿脉分布提示		3	Cliquez pour activer/désactiver la distribution des filons en temps réel. Cela nécessite [Exploration de l'Univers 1]
 空格个		5	 
 储量		3	\r\nRéserves 
-产量		3	\r\nProduction
+产量		3	\r\nProduction 
 电力网络		3	Réseau Électrique
 电力网络提示		3	Cliquez pour activer/désactiver l'état du réseau électrique en temps réel
 防御范围		3	Portée Défensive
@@ -1808,7 +1808,7 @@ Z取消调遣描述		0	Laissez les flottes suivre Icarus.
 右键点击关闭		3	- Clic droit pour fermer -
 仪表盘页签		0	Onglet Tableau de Bord
 仪表盘按钮		0	Tableau de Bord (Maj+P)
-生产统计页签		3	Production
+生产统计页签		3	Production 
 收藏夹筛选		3	Favoris
 生产速率		3	Taux de production
 消耗速率		3	Taux de consommation
@@ -4036,6 +4036,7 @@ AudioResPostfix		5	-en
 ResPostfix		5	-en
 CutsceneBGM0		0	Musics/df-cutscene-en
 新档其他升级信息显示		0	Nombre de batiment par Plan\r\nLimite de pente des convoyeurs\r\nNiveau d'emplillage \r\nVitesse de recherche\r\nTotal de matrices universelles envoyées
+
 
 
 

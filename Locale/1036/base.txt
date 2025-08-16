@@ -2567,9 +2567,9 @@ Couleurs personnalisées		3	Clignez à gauche pour sélectionner une couleur. Cl
 双击蓝图提示		3	Double-cliquez pour utiliser
 拆除设施		5	Démonter les installations (X)
 升级设施		5	Mettre à niveau les installations (U)
-过滤设施		5	Installations
-过滤传送带		3	convoyeurs
-过滤分拣器		5	Trieurs
+过滤设施		5	Bâtiment 
+过滤传送带		3	Convoyeur
+过滤分拣器		5	Trieur
 单点选择提示		3	Sélection unique
 单点选择提示文字		3	Cliquez sur une installation unique pour la sélectionner.\r\nMaintenez [<color="#FD965ECC">SHIFT</color>] enfoncé pour sélectionner plusieurs objets.
 范围选择提示		3	Sélection par zone
@@ -4036,6 +4036,7 @@ AudioResPostfix		5	-en
 ResPostfix		5	-en
 CutsceneBGM0		0	Musics/df-cutscene-en
 新档其他升级信息显示		0	Nombre de batiment par Plan\r\nLimite de pente des convoyeurs\r\nNiveau d'emplillage \r\nVitesse de recherche\r\nTotal de matrices universelles envoyées
+
 
 
 

@@ -2237,7 +2237,7 @@ PF建筑残骸		2	Ruines
 解锁机甲低空飞行		3	Débloque le Vol du Mecha
 解锁机甲星际航行		3	Débloque la Croisière du Mecha
 解锁机甲曲速飞行		3	Débloque la Distorsion du Mecha
-物品清单容量		3	 Capacité d'Inventaire par Ligne(s)
+物品清单容量		3	  Capacité d'Inventaire par Ligne(s)
 物品清单容量列		0	 Capacité d'Inventaire par Colonne(s)
 分拣器堆叠输出		0	Le Trieur de Pile peut délivrer des cargaisons intégrées.
 分拣器双向运送		0	[Amélioration Ultime du Trieur de Pile]:\r\nLe Trieur de Pile peut charger et décharger simultanément.
@@ -4036,6 +4036,7 @@ AudioResPostfix		5	-en
 ResPostfix		5	-en
 CutsceneBGM0		0	Musics/df-cutscene-en
 新档其他升级信息显示		0	Nombre de batiment par Plan\r\nLimite de pente des convoyeurs\r\nNiveau d'emplillage \r\nVitesse de recherche\r\nTotal de matrices universelles envoyées
+
 
 
 

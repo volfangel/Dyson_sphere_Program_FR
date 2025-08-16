@@ -2233,7 +2233,7 @@ PF建筑残骸		2	Ruines
 科技树		5	Arbre Technologique
 建设机控制数量		2	 Drone(s) de Construction
 机甲燃烧室功率		2	 Puissance de Carburant W du Mecha
-机甲行走速度		2	 Vitesse de Déplacement m/s du Mecha
+机甲行走速度		2	  Vitesse de Déplacement m/s du Mecha
 解锁机甲低空飞行		3	Débloque le Vol du Mecha
 解锁机甲星际航行		3	Débloque la Croisière du Mecha
 解锁机甲曲速飞行		3	Débloque la Distorsion du Mecha
@@ -4036,6 +4036,7 @@ AudioResPostfix		5	-en
 ResPostfix		5	-en
 CutsceneBGM0		0	Musics/df-cutscene-en
 新档其他升级信息显示		0	Nombre de batiment par Plan\r\nLimite de pente des convoyeurs\r\nNiveau d'emplillage \r\nVitesse de recherche\r\nTotal de matrices universelles envoyées
+
 
 
 

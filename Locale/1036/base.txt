@@ -803,7 +803,7 @@ KEY确认截图		0	Capturer l'Écran en Mode Capture d'Écran
 实际发电		3	Production actuelle
 总蓄电量		3	Énergie accumulée
 需求量		2	Demande
-发电性能2		3	Production
+发电性能2		3	Production 
 需求量2		3	Consommation
 放电		3	Décharge
 充电		3	Charge
@@ -4036,6 +4036,7 @@ AudioResPostfix		5	-en
 ResPostfix		5	-en
 CutsceneBGM0		0	Musics/df-cutscene-en
 新档其他升级信息显示		0	Nombre de batiment par Plan\r\nLimite de pente des convoyeurs\r\nNiveau d'emplillage \r\nVitesse de recherche\r\nTotal de matrices universelles envoyées
+
 
 
 

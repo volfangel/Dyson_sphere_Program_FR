@@ -2278,7 +2278,7 @@ PF建筑残骸		2	Ruines
 行星物流仓储上限		3	 Limite de Stockage de la Station Planétaire
 星际物流仓储上限		3	 Limite de Stockage de la Station Interstellaire
 解锁配送清单		3	Débloquer la Liste Logistique
-配送清单容量		3	+{0}  colonne(s) sur la Liste Logistique
+配送清单容量		3	+{0}  Colonne(s) sur la Liste Logistique
 配送清单堆叠		3	Multiplieur de Pile de Liste Logistique +{0}
 配送机速度		2	+{0} Vitesse de Vol des Robots Logistiques
 配送机运载量		2	+{0} Capacité de Transport des Robots Logistiques
@@ -4036,6 +4036,7 @@ AudioResPostfix		5	-en
 ResPostfix		5	-en
 CutsceneBGM0		0	Musics/df-cutscene-en
 新档其他升级信息显示		0	Nombre de batiment par Plan\r\nLimite de pente des convoyeurs\r\nNiveau d'emplillage \r\nVitesse de recherche\r\nTotal de matrices universelles envoyées
+
 
 
 

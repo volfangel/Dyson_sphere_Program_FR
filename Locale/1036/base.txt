@@ -1974,7 +1974,7 @@ IO耗时		3	Temps d'E/S
 PF本地运输		3	Transport Local
 PF采集设施		3	Mineur
 PF仓储		3	Stockage
-PF传送带		3	Tapis Roulant
+PF传送带		3	Convoyeur
 PF传送带与货物		3	Tapis Roulant & Cargo
 PF戴森壳		5	Enveloppe Dyson
 PF戴森球节点		5	Nœud Dyson
@@ -4036,6 +4036,7 @@ AudioResPostfix		5	-en
 ResPostfix		5	-en
 CutsceneBGM0		0	Musics/df-cutscene-en
 新档其他升级信息显示		0	Nombre de batiment par Plan\r\nLimite de pente des convoyeurs\r\nNiveau d'emplillage \r\nVitesse de recherche\r\nTotal de matrices universelles envoyées
+
 
 
 

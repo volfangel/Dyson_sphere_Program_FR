@@ -2258,8 +2258,8 @@ PF建筑残骸		2	Ruines
 运输机速度		3	Vitesse de Vol des Drones Logistiques
 运输船速度		3	Vitesse de Navigation des Vaisseaux Logistiques
 运输船曲速飞行		3	Débloque la distorsion des vaisseaux logistiques
-运输机运载量		3	Capacité de Transport des Drones Logistiques
-运输船运载量		3	Capacité de Transport des Vaisseaux Logistiques
+运输机运载量		3	 Capacité de Transport des Drones Logistiques
+运输船运载量		3	 Capacité de Transport des Vaisseaux Logistiques
 运输船运载量		3	 capacité de transport du vaisseau logistique
 采矿消耗矿物		3	 Perte de minerai par opération de minage
 采矿作业速度		3	 Vitesse de Minage
@@ -4036,4 +4036,5 @@ AudioResPostfix		5	-en
 ResPostfix		5	-en
 CutsceneBGM0		0	Musics/df-cutscene-en
 新档其他升级信息显示		0	Nombre de batiment par Plan\r\nLimite de pente des convoyeurs\r\nNiveau d'emplillage \r\nVitesse de recherche\r\nTotal de matrices universelles envoyées
+
 

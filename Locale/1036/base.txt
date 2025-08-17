@@ -2248,7 +2248,7 @@ PF建筑残骸		2	Ruines
 建设机飞行速度		3	 Vitesse de Vol du Drone de Construction m/s
 太空航行速度		3	 Vitesse de Croisière du Mecha m/s
 曲速飞行速度		3	 Vitesse de Distorsion du Mecha AU/s
-太阳帆寿命		3	Durée de Vie de la Voile Solaire en s
+太阳帆寿命		3	 Durée de Vie de la Voile Solaire en s
 射线能量散失		3	Dissipation d'Énergie des Rayons Solaires
 分拣器运货量		2	Empilement de cargaisons par le Trieur de Pile :
 分拣器输入运货量		0	[Amélioration du Chargement du Trieur de Pile]:\r\nLe Trieur de Pile peut charger {0} cargaisons
@@ -4036,6 +4036,7 @@ AudioResPostfix		5	-en
 ResPostfix		5	-en
 CutsceneBGM0		0	Musics/df-cutscene-en
 新档其他升级信息显示		0	Nombre de batiment par Plan\r\nLimite de pente des convoyeurs\r\nNiveau d'emplillage \r\nVitesse de recherche\r\nTotal de matrices universelles envoyées
+
 
 
 

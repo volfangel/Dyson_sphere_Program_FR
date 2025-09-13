@@ -2349,7 +2349,7 @@ PF建筑残骸		2	Ruines
 低级飞行引擎		3	Moteur de vol primaire
 中级航行引擎		3	Moteur de croisière moyen
 高级曲速引擎		3	Moteur de distorsion avancé
-每秒光年		3	 ly/s (années-lumière par seconde)
+每秒光年		3	 AL/s (Années-Lumière/sec.)
 集装分拣器集装输入		0	Chargement empilé {0}
 集装分拣器输入输出		0	Chargement empilé {0} / Déchargement empilé {1}
 集装分拣器集装最大化		0	Empilage Max
@@ -4036,6 +4036,7 @@ AudioResPostfix		5	-en
 ResPostfix		5	-en
 CutsceneBGM0		0	Musics/df-cutscene-en
 新档其他升级信息显示		0	Nombre de batiment par Plan\r\nLimite de pente des convoyeurs\r\nNiveau d'emplillage \r\nVitesse de recherche\r\nTotal de matrices universelles envoyées
+
 
 
 

@@ -2274,7 +2274,7 @@ PF建筑残骸		2	Ruines
 蓝图库		2	Bibliothèque de Plans
 蓝图建造设施上限		2	Limite de Plans : {0} Installations.
 蓝图建造设施上限无		3	Aucune limite de quantité d'installations sur le Plan de Conception
-运输站集装等级		3	Comptage d'intégration des Stations Logistiques
+运输站集装等级		3	 Comptage d'intégration des Stations Logistiques
 行星物流仓储上限		3	 Limite de Stockage de la Station Planétaire
 星际物流仓储上限		3	 Limite de Stockage de la Station Interstellaire
 解锁配送清单		3	Débloquer la Liste Logistique
@@ -4036,6 +4036,7 @@ AudioResPostfix		5	-en
 ResPostfix		5	-en
 CutsceneBGM0		0	Musics/df-cutscene-en
 新档其他升级信息显示		0	Nombre de batiment par Plan\r\nLimite de pente des convoyeurs\r\nNiveau d'emplillage \r\nVitesse de recherche\r\nTotal de matrices universelles envoyées
+
 
 
 

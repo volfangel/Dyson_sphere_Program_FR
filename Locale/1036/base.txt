@@ -2317,7 +2317,7 @@ PF建筑残骸		2	Ruines
 解锁能量护盾爆破		0	Débloquer l'Explosion du Bouclier Énergétique
 通关游戏		5	Mission Accomplie !
 等级		3	Niveau
-杠等级		3	-Niveau
+杠等级		3	 - Niveau 
 缺少研究材料		3	Manque de matériaux de recherche
 机体能量耗尽		3	Énergie du Mecha épuisée
 正在研究时		3	En cours de recherche...
@@ -4036,6 +4036,7 @@ AudioResPostfix		5	-en
 ResPostfix		5	-en
 CutsceneBGM0		0	Musics/df-cutscene-en
 新档其他升级信息显示		0	Nombre de batiment par Plan\r\nLimite de pente des convoyeurs\r\nNiveau d'emplillage \r\nVitesse de recherche\r\nTotal de matrices universelles envoyées
+
 
 
 
